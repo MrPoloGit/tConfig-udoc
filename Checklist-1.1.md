@@ -26,12 +26,44 @@
 |----------|--------|-----------------|--------------|-----------------|-----------|----------|-------------|
 | [Project-1.1](https://github.com/MrPoloGit/Project-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ❌ | ✅ | ❌ | ❌ | |
 | [tlcmod-1.1](https://github.com/MrPoloGit/tlcmod-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ✅ | ✅ | ❌ | ❌ | |
-| [The Kase Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-the-kase-mod.28017/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ❌ | ❌ | ❌ | ❌ | |
-| [Industrail Revolution Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-industrail-revolution-mod.38374/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ❌ | ❌ | ❌ | ❌ | |
-| Green Cat's Xbox Controller Mod (broken) | GreenCat77 (broken) | 0.35.3a | ❌ | ❌ | ❌ | ❌ | A mod that adds fully functional native XInput controller support all wrapped up in a beautifully aesthetic package, including interface icons and contextual button prompts. The controller setup is also customizable. |
+| [The Kase Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-the-kase-mod.28017/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ✅ | ❌ | ❌ | ✅ | |
+| [Industrail Revolution Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-industrail-revolution-mod.38374/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ✅ | ❌ | ❌ | ✅ | |
+| Accessory Slots+ | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Achievements | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Advanced Crafting Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Boss HP Bar | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Final Cheat Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Health Interface | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| HP Bars | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Item Manager | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Never-Ending Christmas | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Party Heads | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Shake Off Buffs | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Shop Info | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Stacks Up! | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Haunted Mine | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| World+ | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Portal Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| Epic Loot | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| Examples | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| Gamepad Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| Terrariastuck (broken) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.7 | ❌ | ❌ | ❌ | ❌ | An MS Paint Adventures inspired mod. Actually an early Beta. Includes new races, new mechanics, new items and new graphics. Work in progress and constant help needed for its development. |
+| W1K - Metroid | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1k - Misc | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K - Touhou Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K - Warhammer Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K - CPR | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K MM - 1.0.5 Balence | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K MM - Difficulty Changer | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K MM - Hunger System | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K MM - Liquids Modifier | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K MM - Position Saver | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| Defaults | ??? | | ❌ | ❌ | ❌ | ❌ |  |
+| [Green Cat's Xbox Controller Mod (needs more research)](https://forums.terraria.org/index.php?threads/xinput-gamepad-support-mod-pre-1-3.1260/) | [GreenCat77](https://forums.terraria.org/index.php?members/meowmaritus.5259/) | 0.35.3a | ❌ | ❌ | ❌ | ❌ | A mod that adds fully functional native XInput controller support all wrapped up in a beautifully aesthetic package, including interface icons and contextual button prompts. The controller setup is also customizable. |
 | ChadPack - Food (broken) | Chadwick (broken) | 0.35.1a | ❌ | ❌ | ❌ | ❌ | A minimod adding in some more food to the game! Two versions can be downloaded, one including -, and one not including W1K's Hunger System. In the one not including the hunger system, the foods just restore health, not giving you the annoying debuff :P Recommended to play along with some other mods. My other mods are in the same thread. |
 | W1K's Content Packs Remix (broken) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1a |  ❌ |❌ | ❌ | ❌ | Experience the beautiful first bosses tConfig has ever seen, with a sweet added flavor of some of the best bosses ever made, everything mixed with an array of perfectly balanced contents and new features. Every W1K's content pack is now merged into a single, huge pack of awesomeness with extra diamonds. W1K's Mini-mods can be found on the same thread. |
-| World of Falana (broken) | Wodzu93 (broken) | 0.35.1a | ❌ | ❌ | ❌ | ❌ | Mixing Terraria with Dust: An Elysian Tale with my own ideas, with quality over quantity approach. |
+| World of Falana (broken) | Wodzu93 (broken) | 0.35.1a | ❌ | ❌ | ❌ | ✅ | Mixing Terraria with Dust: An Elysian Tale with my own ideas, with quality over quantity approach. |
 | Jmod (broken) | Creeper_Man (Jensen) (broken) | 0.35.1 | ❌ | ❌ | ❌ | ❌ | Adds over 200 items, 15 mobs, 3 new bosses/armies, and over 10 new NPC's |
 | Star Wars Modpack (broken) | FreyModder (broken) | 0.35.1 | ❌ | ❌ | ❌ | ❌ | Guns, Tiles, NPC, Grenades, Drills, Bars, Headgears and much more. |
 | Pixel Mark Crusaders' My Little Pony Pack (broken) | Pixel Mark Crusaders (broken) | 0.35.0 | ❌ | ❌ | ❌ | ❌ | A My Little Pony themed mod for all the Bronies in the Terraria Fandom. |
@@ -42,7 +74,6 @@
 | Super Metroid (and map) (broken) | Duze & ScooterBoot9697 (broken) | 0.33.0 | ❌ | ❌ | ❌ | ❌ | Super Metroid recreated, featuring custom wavebank with remastered songs. Not multiplayer compatible |
 | Zoodle's Content Packs (broken) | Zoodletec (broken) | 0.33.0 | ❌ | ❌ | ❌ | ❌ |
 | Ace's Final Fantasy Modification (broken) | Ace the Best (broken) | 0.31.1b | ❌ | ❌ | ❌ | ❌ | Adds 140+ Items and 50+ NPC's (5 New Bosses!) And much more, these based mostly on Final Fantasy VIII and Final Fantasy XII. |
-| Retribution of the Darkness (broken) | [Anton_ROTD](https://vk.com/rcreator) | 0.31.1b | ❌ | ❌ | ❌ | ❌ | 31 mods and more, Russian setup/documentation only |
 | Bright Souls Mod v0.1.00 (broken) | LALZNOOBS (broken) | 0.31.1a | ❌ | ❌ | ❌ | ❌ | A second version of "Dark souls mod", I still have a lot to do but it's all coming together. Adds items, NPC's and more. |
 | Recipe Book (broken) | grable (broken) | 0.30.4 | ❌ | ❌ | ❌ | ❌ | Lists all Recipes and their required items, with Filtering and History. |
 | Space Mod (broken) | Deceitful Echo (broken) | 0.30.4 | ❌ | ❌ | ❌ | ❌ | A pack filled with a more futuristic style of weapons, armor, and tiles and a new ore. |
@@ -56,7 +87,6 @@
 | Decorations and Wallpapers Pack (broken) | Eikester (broken) | 0.28.7 | ❌ | ❌ | ❌ | ❌ | Arcade Slot Machine Adds a bunch of Decoration Tiles and Walls. i.e: Kitchen, Couches, Sandbags, Sandstone, Vases, Curtains, Hospital Stuff, Bathrooms Furnitures and many many more, over 270 new Items |
 | Disassembly Mod (broken) | Eikester (broken) | 0.28.7 | ❌ | ❌ | ❌ | ❌ | Lets you decraft any Item that has a crafting Recipe |
 | Minecraft Hud Mod (broken) | Eikester (broken) | 0.28.7 | ❌ | ❌ | ❌ | ❌ | As the name implies, the Minecraft Hud for Terraria |
-| Terrariastuck (broken) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.7 | ❌ | ❌ | ❌ | ❌ | An MS Paint Adventures inspired mod. Actually an early Beta. Includes new races, new mechanics, new items and new graphics. Work in progress and constant help needed for its development. |
 | xR Zer0's Workshop (broken) | Wingzero007 (broken) | 0.28.7 | ❌ | ❌ | ❌ | ❌ | A workbench for all of Zer0's Works and Posts. Check frequently as the author claims he will keep content up to date and tested thoroughly. |
 | Droid15243's Modpacks (broken) | Droid15243 (broken) | 0.28.6 | ❌ | ❌ | ❌ | ❌ | A Super Mario Bros. 1 mod and custom content. [WIP] |
 | Desert Pack (broken) | Eikester (broken) | 0.28.5 | ❌ | ❌ | ❌ | ❌ | Some Desert-themed Tiles like Sandstone Bricks/Walls, Vases etc. |
@@ -88,11 +118,11 @@
 | [Rustlesser's ModPack 1.0.6](https://terraria.fandom.com/ru/wiki/Rustlesser%27s_ModPack) | [Rustlesser](https://terraria.fandom.com/ru/wiki/UserProfile:Rustlesser) | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
 | Sandbox Elemental (broken) | Solenix (broken) | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
 | Assassins Creed Modpack (broken) | X-Spider (broken) | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
-| The Portal Mod (Surfpup) (broken) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0. ❌ |23.8 | ❌ | ❌ | ❌ |
+| The Portal Mod (Surfpup) (broken) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.23.8 | ❌ | ❌ | ❌ | ❌ |
 | tConfig Quest Mod (broken) | Wigglesniff (broken) | 0.23.8 | ❌ | ❌ | ❌ | ❌ |
 | The True and Balanced Pack (broken) | Wingzero007 (broken) | 0.23.8 | ❌ | ❌ | ❌ | ❌ |
 | Modern Warfare 3 Pack (broken) | warmaster949 (broken) | 0.23.7 | ❌ | ❌ | ❌ | ❌ |
-| Tiles example pack (Surfpup) (broken) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup. ❌ |21475/) | 0.23.4b | ❌ | ❌ | ❌ |
+| Tiles example pack (Surfpup) (broken) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.23.4b | ❌ | ❌ | ❌ | ❌ |
 | Atomsk's Mods (broken) | AtomskShade (broken) | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Chest Colours (broken) | eliure (broken) | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Dark Souls Mod (Tim Hjersted) (broken) | Tim Hjersted (broken) | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
@@ -111,15 +141,185 @@
 | Spells and Mysticism! (broken) | Mitchellex (broken) | 0.22.2 | ❌ | ❌ | ❌ | ❌ |
 | Jordan's Modpack (broken) | Jordanlm98 (broken) | 0.21.7 | ❌ | ❌ | ❌ | ❌ |
 | Dogsonofawolf's NPCs (broken) | Dogsonofawolf (broken) | 0.21.0 | ❌ | ❌ | ❌ | ❌ |
-| Obsidian's Mod (broken) | Obsidian (broken) | 0.19.6 | ❌ | ❌ | ❌ | ❌ |
+| Obsidian Mod (broken) | Obsidian (broken) | 0.19.6 | ❌ | ❌ | ❌ | ✅ |
+| Obsidian Mod (No Rain) (broken) | Obsidian (broken) | 0.19.6 | ❌ | ❌ | ❌ | ✅ |
 | Sword Pack (Aerobit) (broken) | Aerobit (broken) | 0.12.4 | ❌ | ❌ | ❌ | ❌ |
 | Misc ModPack (broken) | FatObeseBird (broken) | ??? | ❌ | ❌ | ❌ | ❌ |
 | Runescape Weapons (broken) | Robert (broken) | ??? | ❌ | ❌ | ❌ | ❌ |
+| SwampPack (broken) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| 2 Day Challenge 1 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Accessory Slots | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Additional Weapons Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Adventure Dialogue | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| AI collection | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Alternate Portal Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Anti-Gravity Mover | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Awesome Christmas | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| BaseMod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Binding of Terraria | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Builders Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Built-In | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Caelum Ignota | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Capture The Flag | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Challenges | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| CharError | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Cheat Menu Modded | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Classy Vanity 1.1 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Classy_Extras_v1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Classy_Magic_v1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Classy_Melee_v1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Classy_NPCs_v1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Classy_Tools_v1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Colored wires | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| CompilationMod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Corruptor Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Daggers | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Dark Souls (1) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Dark Souls | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Dark_Souls_darksouls (1) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Dark_Souls_redcloudmsd | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| DefaultsModified | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| DefualtsTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Dual Wielding | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Due West | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Durability | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Dying Soul | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Elemental Source | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Enchantmentlocal | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Evil Modpack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Ex_Flail | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Examples - Prefixes | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Examples - Tiles | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Examples | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Fast Progression | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Finaller Cheat Menu | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Flashkirby's Mounts and Stuff | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Flashkirby's Weapons | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Flashlight + Fireworks | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Furniture Examples | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| GameplayTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| GenTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Glue & Paint Gun | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| GodMode 2 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| GodMode 3 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Grables_Recipe_Book | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Green_Cats_Autosave_Players | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Groxmod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Hardmode Plus | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Health Up! | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Infinity Chest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Jensen's Moon Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Kurobari | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| LBP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Magic Mirror Hotkey | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Meteor Brick Sample by Wiring | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| MethodTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| MetroidTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Metroid Morph Ball | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Metroid_Mod_1.2d | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| MiraiMais_Dual_Wielding | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Mirrors | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Monster_Hunter_Terra12345 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| More Chests | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Mystic Horizons | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Mystical Tomes | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Mystical_Tomes | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Nazi_Zombies_V2.7.2 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Necro SP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Necro_SP_v1.91 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Never Enough Accessories | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Never Enough Devices | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Never Enough Headgear | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Never Enough Magic | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Never Enough Vanity | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Never Enough Weaponry | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| NoTileBreak | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| NoTilePlacement | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| NPCTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Nyan Cat | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Old Avalon | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| OldPortal Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Omnirs C, TaFF -- CW Yorai Mods | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Omnirs Creatures, TaFF items | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Omnirs Furniture | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Omnirs Melee Weapons | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Omnir's Nostalgia Pack Blasting | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Omnir's Nostalgia Pack Digging | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Omnir's Nostalgia Pack Low HP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Omnir's Nostalgia Pack No Blast | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Omnir's Nostalgia Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Omnirs_Creatures_TaFF_items_No_Blast | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Omnirs_Melee_Weapons | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Other_Worlds | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| [Paradise Lost](https://tconfig.fandom.com/wiki/Paradise_Lost) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
+| PASE 002 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Peaceful Mode | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Pickaxe_1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Plane | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Poro's Dutvutanian Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Poro's MWNN Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| PTS | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| PVP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| QuickDestroy | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Races The Redux | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Randomized NPCs | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Reborn_Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Recipe Book | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Retribution of the Darkness (broken) | [Anton_ROTD](https://vk.com/rcreator) | 0.31.1b | ❌ | ❌ | ❌ | ✅ | 31 mods and more, Russian setup/documentation only |
+| Roguelike | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| RomulanPaladin's Dust and Sound Catalog v0_1 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| RPG | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| SillyNPCs | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| SimpleTransferExample | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| SonnyMod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Spigot | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Stacks Up! | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Stats | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Steve | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| SwampPack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| tConfig Debugger | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| TerrariastuckB04hotfix | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Three Stats | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Thumbs | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Tile Performance | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| True Invisibility | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| TScript | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Unique Treasure | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Universal_Dye_Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Vertigo Elemental | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| WorldGen Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| WorldGen Plus | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| X-Boots | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Xbox Controller Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| XBox Controller | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Yorais_Dual_Wielding | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Yoraiz0rs Cheat Menu | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Bonfire Syndrome | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY DW TAO2 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY E O Y | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Final Cheat Menu | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY HLR | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Holotiles Static Set | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Holowires | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Improved Mannequins | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Mystery Items Pack (1) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Mystery Items Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Races Of Terraria | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY SAS | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Serverside Saving | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Shields Complementary Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Step Up | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Visible Accessories | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Yorais Wonderful World | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY_Step_Up | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| ZZZ DRAGON PET | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| ZZZZ PROPER DARK SOULS | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+
+
 
 ## Terraria 1.0.6.1 Compatible Mods
-
-| Mod Name | Author | tConfig Version | Source Files | 0.38 Compatible | Wiki Page | obj file | Description (some from wiki) |
-|----------|--------|-----------------|--------------|-----------------|-----------|----------|-----------|
+| Mod Name | Author | tConfig Version | Source Files | 0.38 Compatible | Wiki Page | obj File | Description (some from wiki) |
+|----------|--------|-----------------|--------------|-----------------|-----------|----------|-------------|
 | Death Pack (broken) | AlekakoC (broken) | 0.26.2 | ❌ | ❌ | ❌ | ❌ |
 | Ice Pack (broken) | AlekakoC (broken) | 0.26.2 | ❌ | ❌ | ❌ | ❌ |
 | [Rainbow Slime](https://www.mediafire.com/file/y45lwrbsj3r0l1k/SUPER+SLIME.rar) | AlekakoC | 0.26.2 | ✅ | ❌ |  ❌ | ✅ |
@@ -134,7 +334,6 @@
 | [Supa Mushroom](https://www.mediafire.com/file/7d5yo2bemb0642a/Supa+Mushroom.zip) | ??? | ??? | ❌ | ❌ | ❌ | ❌ |
 | Dwarven Mod Pack (broken) | ShadowPhang (broken) | ??? | ❌ | ❌ | ❌ | ❌ |
 | Barbershop (broken) | Slairne (broken) | 0.25.2 | ❌ | ❌ | ❌ | ❌ |
-| [Paradise Lost](https://tconfig.fandom.com/wiki/Paradise_Lost) | ??? | ??? | ❌ | ❌ | ❌ | ❌ |
 | Goodie Box (broken) | ??? | 0.25.2 | ❌ | ❌ | ❌ | ❌ |
 | Groovy Shirt (broken) | ??? | 0.25.2 | ❌ | ❌ | ❌ | ❌ |
 | Lunar HP (broken) | ??? | 0.25.2 | ❌ | ❌ | ❌ | ❌ |
