@@ -4,6 +4,8 @@
 - https://tconfig.fandom.com/wiki/Wingzero007_Mod_Tests
 - https://tconfig.fandom.com/wiki/Romulan_Paladin%27s_Dust_and_Sound_Catalog_Mod
 - https://tconfig.fandom.com/wiki/Paradise_Lost/old
+- https://www.dropbox.com/s/4czhchi9l45gq35/Terraria%20Mod%20Archive%20V5.zip?dl=0 
+
 
 | Symbol | Meaning |
 |--------|--------|
@@ -14,14 +16,10 @@
 
 Marking something as 0.38 compatabile means that it outputs an obj when using ModPack Builder, this doesn't mean the mod completely and perfectly works. If there is an issue file an issue on this Github.
 
-## Terraria 1.1+ Compatible Mods
+## Terraria 1.1 Mods (incomplete and messy with duplicates)
 
 | Mod Name | Author | tConfig Version | Source Files | 0.38 Compatible | Wiki Page | obj File | Description (some from wiki) |
 |----------|--------|-----------------|--------------|-----------------|-----------|----------|-------------|
-| [Project-1.1](https://github.com/MrPoloGit/Project-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ❌ | ✅ | ❌ | ✅ | |
-| [tlcmod-1.1](https://github.com/MrPoloGit/tlcmod-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ✅ | ✅ | ❌ | ✅ | |
-| [The Kase Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-the-kase-mod.28017/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ✅ | ❌ | ❌ | ✅ | |
-| [Industrail Revolution Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-industrail-revolution-mod.38374/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ✅ | ❌ | ❌ | ✅ | |
 | Accessory Slots+ | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |  |
 | Achievements | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅  | ❌ | ✅ |  |
 | Advanced Crafting Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |  |
@@ -36,25 +34,70 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Final Cheat Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ✅ | ✅ | ❌ | ✅ |  |
 | Flashkirby's Mounts and Stuff | Flashkirby | 0.38 | ✅ | ✅ | ❌ | ✅ |  |
 | Flashkirby's Weapons | Flashkirby | 0.38 | ✅ | ✅ | ❌ | ✅ |  |
-
-
+| Gamepad Mod (START HERE FOR NEXT SESSION) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | ??? | ❌ | ❌ | ❌ | ❌ |  |
+| Gold's Pickaxe Pack | Gold | ??? | ❌ | ❌ | ❌ | ❌ |  |
+| Gravity Gun | ??? | ??? | ❌ | ❌ | ❌ | ❌ |  |
+| Groxmod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Health Interface | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
 | HP Bars | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
 | Item Manager | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
-| Never-Ending Christmas | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Jensen's Moon Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Kjulos Mod |
+| Life Bars |
+| Magic Mirror Hotkey | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Mystic Horizons | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Needs Fixing (Obsidian) |
+| Never Enough Accessories | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Never Enough Devices! | MiraiMai | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
+| Never Enough Devices | MiraiMai | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Never Enough Headgear | MiraiMai | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Never Enough Magic | MiraiMai | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Never Enough Mods! | MiraiMai | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
+| Never Enough Vanity | MiraiMai | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Never Enough Weaponry | MiraiMai | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Note Blocks |
+| Nyan Cat | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| oof (retribution of some shit) |
+| [Paradise Lost](https://tconfig.fandom.com/wiki/Paradise_Lost) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 | Party Heads | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
-| Shake Off Buffs | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
-| Shop Info | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
-| Stacks Up! | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
-| Haunted Mine | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
-| World+ | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Poro's Dutvutanian Mod | Poro | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Poro's MWNN Mod | Poro | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Portal Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| [Project-1.1](https://github.com/MrPoloGit/Project-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ❌ | ✅ | ❌ | ✅ | |
+| Roguelike | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Russian Avalon Mashup |
+| Shake Off Buffs | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Shockah Achievements |
+| Shockah Boss HP Bar |
+| Shockah Haunted Mine | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Shockah HP Bar |
+| Shockah Item Manager |
+| Shockah Never-Ending Christmas | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Shockah World+ | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Shockah's Quest Mod |
+| Shop Info | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| Silpm Mod | Silpm | ??? | ❌ | ❌ | ❌ | ❌ |
+| SonnyMod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Stacks Up! | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
+| tConfig Debugger | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| The Drone |
+| The Story of Red Cloud 2018 Update |
+| [tlcmod-1.1](https://github.com/MrPoloGit/tlcmod-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ✅ | ✅ | ❌ | ✅ | |
+| True Invisibility | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Very Old Avalon (might be the first version) |
+| W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| Wallpaper |
+| World+ |
+| XBox Controller | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY E O Y | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Races Of Terraria | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| YYY Yorais Wonderful World | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| [The Kase Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-the-kase-mod.28017/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ✅ | ❌ | ❌ | ✅ | |
+| [Industrail Revolution Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-industrail-revolution-mod.38374/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ✅ | ❌ | ❌ | ✅ | |
 | Examples | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| Gamepad Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |  | ❌ | ❌ | ❌ | ❌ |  |
 | Terrariastuck | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
 | W1K - Metroid | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
 | W1k - Misc | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
 | W1K - Touhou Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
 | W1K - Warhammer Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
 | W1K - CPR | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
@@ -107,8 +150,6 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | The Legend of Terraria | MiraiMai | 0.28.0 | ❌ | ❌ | ❌ | ❌ |  |
 | Dynamic Difficulty Adjustment | Arkhalis | 0.27.2 | ❌ | ❌ | ❌ | ❌ |  |
 | [Jewelcrafting Mod](https://www.dropbox.com/scl/fi/brt8sfl7nm04vmdq5sm4b/Jewelcrafting-Mod.zip?rlkey=mvc71qaqswka5qcmc5v6n2g9o&e=1) | [Deadwindshadow](https://steamcommunity.com/id/jimmyl) | 0.27.2 | ✅ | ❌ | ❌ | ✅ |  |
-| Never Enough Devices! | MiraiMai | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
-| Never Enough Mods! | MiraiMai | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
 | Metroid Mod | scooterboot9697 | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
 | WW2 Weapons Pack | Shadow123 | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
 | Hesperides Temple | Excitement | 0.27.1 | ❌ | ❌ | ❌ | ❌ |
@@ -137,7 +178,6 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Platinum Gear | Classikly | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Poison Mod | Party_Poison | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Sigia's Mod | Sigia | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| Silpm Mod | Silpm | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Kjulo's DLC | Kjulo | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
 | Weird Weapon Mod | SpyStone | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
 | Other Worlds | Dogsonofawolf | 0.22.3 | ❌ | ❌ | ❌ | ❌ |
@@ -204,14 +244,11 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | GodMode 3 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Grables_Recipe_Book | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Green_Cats_Autosave_Players | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Groxmod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Hardmode Plus | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Health Up! | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Infinity Chest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Jensen's Moon Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Kurobari | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | LBP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Magic Mirror Hotkey | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Meteor Brick Sample by Wiring | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | MethodTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | MetroidTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
@@ -221,22 +258,14 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Mirrors | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Monster_Hunter_Terra12345 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | More Chests | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Mystic Horizons | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Mystical Tomes | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Mystical_Tomes | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Nazi_Zombies_V2.7.2 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Necro SP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Necro_SP_v1.91 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Never Enough Accessories | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Never Enough Devices | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Never Enough Headgear | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Never Enough Magic | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Never Enough Vanity | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Never Enough Weaponry | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | NoTileBreak | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | NoTilePlacement | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | NPCTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Nyan Cat | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Old Avalon | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | OldPortal Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Omnirs C, TaFF -- CW Yorai Mods | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
@@ -251,13 +280,10 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Omnirs_Creatures_TaFF_items_No_Blast | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Omnirs_Melee_Weapons | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Other_Worlds | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| [Paradise Lost](https://tconfig.fandom.com/wiki/Paradise_Lost) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 | PASE 002 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Peaceful Mode | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Pickaxe_1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Plane | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Poro's Dutvutanian Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Poro's MWNN Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | PTS | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | PVP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | QuickDestroy | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
@@ -266,23 +292,19 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Reborn_Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Recipe Book | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Retribution of the Darkness | [Anton_ROTD](https://vk.com/rcreator) | 0.31.1b | ❌ | ❌ | ❌ | ✅ |  |
-| Roguelike | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | RomulanPaladin's Dust and Sound Catalog v0_1 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | RPG | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | SillyNPCs | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | SimpleTransferExample | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| SonnyMod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Spigot | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Stacks Up! | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Stats | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Steve | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | SwampPack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| tConfig Debugger | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | TerrariastuckB04hotfix | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Three Stats | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Thumbs | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Tile Performance | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| True Invisibility | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | TScript | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Unique Treasure | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Universal_Dye_Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
@@ -291,12 +313,10 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | WorldGen Plus | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | X-Boots | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Xbox Controller Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| XBox Controller | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Yorais_Dual_Wielding | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Yoraiz0rs Cheat Menu | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY Bonfire Syndrome | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY DW TAO2 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY E O Y | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY Final Cheat Menu | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY HLR | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY Holotiles Static Set | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
@@ -304,13 +324,11 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | YYY Improved Mannequins | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY Mystery Items Pack (1) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY Mystery Items Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Races Of Terraria | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY SAS | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY Serverside Saving | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY Shields Complementary Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY Step Up | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY Visible Accessories | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Yorais Wonderful World | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY_Step_Up | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | ZZZ DRAGON PET | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | ZZZZ PROPER DARK SOULS | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
