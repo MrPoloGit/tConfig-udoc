@@ -134,19 +134,19 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Decorations and Wallpapers Pack | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
 | Disassembly Mod | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
 | Minecraft Hud Mod | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
-| xR Zer0's Workshop | Wingzero007 | 0.28.7 | ❌ | ❌ | ❌ | ❌ | A workbench for all of Zer0's Works and Posts. Check frequently as the author claims he will keep content up to date and tested thoroughly. |
-| Droid15243's Modpacks | Droid15243 | 0.28.6 | ❌ | ❌ | ❌ | ❌ | A Super Mario Bros. 1 mod and custom content. [WIP] |
-| Desert Pack | Eikester | 0.28.5 | ❌ | ❌ | ❌ | ❌ | Some Desert-themed Tiles like Sandstone Bricks/Walls, Vases etc. |
-| Knight's Trenchcoats and Katanas | Knight9910 | 0.28.5 | ❌ | ❌ | ❌ | ❌ | Exactly what the name implies, it's a bunch of vanity trenchcoats and katana-type weapons. |
-| Magia Machina | Revos | 0.28.5 | ❌ | ❌ | ❌ | ❌ | A mix of Steampunk and cartoonish dark fantasy. I strive to add unique elemets that set my mod apart from your run of the mill Copy/Paste mod. |
-| Bags of Holding | Lycos Hayes | 0.28.5 | ❌ | ❌ | ❌ | ❌ | A set of player-storage items that gives you a larger inventory while exploring. |
-| Lycos Hayes' Vanity Flair Kit | Lycos Hayes | 0.28.5 | ❌ | ❌ | ❌ | ❌ | A kit of vanity items, both for the player and the world. This kit includes custom glass walls. Also includes download for Lawura's Builder Pack, updated to current version. |
-| Tunnel King's Mods | Tunnel King | 0.28.5 | ❌ | ❌ | ❌ | ❌ | Meteor Barriers to protect your world/base, a Portable Meteor Biome, other small mods to come. |
-| Drills and Tools | GiSS588 | 0.28.2 | ❌ | ❌ | ❌ | ❌ | A lot of useful tools and drills |
-| Symple Terraria | Symple | 0.28.2 | ❌ | ❌ | ❌ | ❌ | Adds over 170 new items, new mechanics, and faction based pvp. |
-| Weapon/Accessory Modifier Pack | rangerofthewest | 0.28.2 | ❌ | ❌ | ❌ | ❌ | A whole bunch of new prefixes/suffixes for players to enjoy! |
-| Alchemy Mod | [Deadwindshadow](https://steamcommunity.com/id/jimmyl) | 0.28.2 | ❌ | ❌ | ❌ | ❌ | Adds potions that make you mine faster or turn you into stone! Includes readme on how to craft items inside the pack. Adds over 45 new items and over 12 new buffs! |
-| SYNTAX'S MOD | SYNTAX | 0.28.1 | ❌ | ❌ | ❌ | ❌ | Adds lots of items to the game focusing on the lower level items. |
+| xR Zer0's Workshop | Wingzero007 | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
+| Droid15243's Modpacks | Droid15243 | 0.28.6 | ❌ | ❌ | ❌ | ❌ |  |
+| Desert Pack | Eikester | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
+| Knight's Trenchcoats and Katanas | Knight9910 | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
+| Magia Machina | Revos | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
+| Bags of Holding | Lycos Hayes | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
+| Lycos Hayes' Vanity Flair Kit | Lycos Hayes | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
+| Tunnel King's Mods | Tunnel King | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
+| Drills and Tools | GiSS588 | 0.28.2 | ❌ | ❌ | ❌ | ❌ |  |
+| Symple Terraria | Symple | 0.28.2 | ❌ | ❌ | ❌ | ❌ |  |
+| Weapon/Accessory Modifier Pack | rangerofthewest | 0.28.2 | ❌ | ❌ | ❌ | ❌ |  |
+| Alchemy Mod | [Deadwindshadow](https://steamcommunity.com/id/jimmyl) | 0.28.2 | ❌ | ❌ | ❌ | ❌ |  |
+| SYNTAX'S MOD | SYNTAX | 0.28.1 | ❌ | ❌ | ❌ | ❌ |  |
 | The Legend of Terraria | MiraiMai | 0.28.0 | ❌ | ❌ | ❌ | ❌ |  |
 | Dynamic Difficulty Adjustment | Arkhalis | 0.27.2 | ❌ | ❌ | ❌ | ❌ |  |
 | [Jewelcrafting Mod](https://www.dropbox.com/scl/fi/brt8sfl7nm04vmdq5sm4b/Jewelcrafting-Mod.zip?rlkey=mvc71qaqswka5qcmc5v6n2g9o&e=1) | [Deadwindshadow](https://steamcommunity.com/id/jimmyl) | 0.27.2 | ✅ | ❌ | ❌ | ✅ |  |
