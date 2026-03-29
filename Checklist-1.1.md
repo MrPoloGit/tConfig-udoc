@@ -22,7 +22,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Accessory Slots+ | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Achievements | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅  | ✅ | ✅ |
 | Advanced Crafting Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Avalon | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| [Avalon](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ✅ | ✅ | ✅ | ✅ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
 | Avalon (Junkyard) | ??? | ??? | ❌ | ❌ | ❌ | ❌ |
 | Awesome Christmas | ??? | ??? | ❌ | ❌ | ❌ | ❌ |
 | Boss HP Bar | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -31,72 +31,75 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Epic Loot - Elemental | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ? | ❌ | ❌ | ✅ |
 | Epic Loot 2 | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ❌ | ❌ | ✅ |
 | Final Cheat Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Flashkirby's Mounts and Stuff (LEFT OFF HERE WITH TESTING THE OBJS FOR EACH BUILD) | Flashkirby | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Flashkirby's Weapons | Flashkirby | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Gamepad Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Gold's Pickaxe Pack | Gold | 0.38 | ✅ | ✅ | ❌ | ✅ |
+| Flashkirby's Mounts and Stuff | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Flashkirby's Weapons | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Gamepad Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Gold's Pickaxe Pack | Gold | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Gravity Gun | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | Groxmod (requires BaseMod) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
-| Health Interface | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
+| Health Interface | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Health Up! | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
-| HP Bars | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Item Manager | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Jensen's Moon Mod | Jensen | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Kjulos Mod |
-| Life Bars | ??? | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Magic Mirror Hotkey | ??? | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Mystic Horizons | ??? | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Needs Fixing (Obsidian) |
+| HP Bars | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Item Manager | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Jensen's Moon Mod | Jensen | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Kjulos Mod | ??? | ??? | ❌ | ❌ | ❌ | ❌ |
+| Life Bars | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Magic Mirror Hotkey | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Mystic Horizons | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Needs Fixing (Obsidian) | ??? | ??? | ❌ | ❌ | ❌ | ❌ |
 | Never Enough Accessories | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
-| Never Enough Devices | MiraiMai | 0.38 | ✅ | ✅ | ❌ | ✅ |
+| Never Enough Devices | MiraiMai | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Never Enough Headgear | MiraiMai | ??? | ❌ | ❌ | ❌ | ✅ |
-| Never Enough Magic | MiraiMai | 0.38 | ✅ | ✅ | ❌ | ✅ |
+| Never Enough Magic | MiraiMai | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Never Enough Mods! | MiraiMai | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
 | Never Enough Vanity | MiraiMai | ??? | ❌ | ❌ | ❌ | ✅ |
-| Never Enough Weaponry | MiraiMai | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Never-Ending Christmas | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
+| Never Enough Weaponry | MiraiMai | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Never-Ending Christmas | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Note Blocks |
 | Nyan Cat | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
+| Obsidian Mod | ??? | ??? | ✅ | ✅ | ❌ | ✅ |
+| Obsidian_Global | ??? | ??? | ✅ | ✅ | ❌ | ✅ |
 | oof (retribution of some shit) |
-| [Paradise Lost](https://tconfig.fandom.com/wiki/Paradise_Lost) | ??? | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Party Heads | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Poro's Dutvutanian Mod | Poro | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Poro's MWNN Mod | Poro | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Portal Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| [Project-1.1](https://github.com/MrPoloGit/Project-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ❌ | ✅ | ❌ | ✅ |
-| Roguelike | ??? | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| RomulanPaladin's Dust and Sound Catalog v0_1 | RomulanPaladin | 0.38 | ✅ |  | ❌ | ✅ |
+| [Paradise Lost](https://tconfig.fandom.com/wiki/Paradise_Lost) | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Party Heads | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Poro's Dutvutanian Mod | Poro | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Poro's MWNN Mod | Poro | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Portal Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| [Project-1.1](https://github.com/MrPoloGit/Project-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ❌ | ✅ | ✅ | ✅ |
+| Roguelike | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| RomulanPaladin's Dust and Sound Catalog v0_1 | RomulanPaladin | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Russian Avalon Mashup | ??? | 0.38 | ❌ | ❌ | ❌ | ❌ |
-| Shake Off Buffs | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Shockah Achievements | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Shockah Boss HP Bar | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Shockah Haunted Mine | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Shockah HP Bar | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Shockah Item Manager | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Shockah Shop Info | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| Shockah World+ | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
+| Shake Off Buffs | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Shockah Achievements | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Shockah Boss HP Bar | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Shockah Haunted Mine | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Shockah HP Bar | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Shockah Item Manager | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Shockah Shop Info | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Shockah World+ | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Shockah's Quest Mod | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |
 | Shop Info | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | ??? | ❌ | ❌ | ❌ | ✅ |
 | Silpm Mod | Silpm | ??? | ❌ | ❌ | ❌ | ✅ |
 | SonnyMod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
-| Stacks Up! | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
+| Stacks Up! | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Supa Mushroom | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 | tConfig Debugger | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
-| The Drone | ??? | 0.38 | ✅ | ✅ | ❌ | ✅ |
+| The Drone | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | The Story of Red Cloud 2018 Update | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
-| [tlcmod-1.1](https://github.com/MrPoloGit/tlcmod-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| True Invisibility | ??? | 0.38 | ✅ | ✅ | ❌ | ✅ |
+| [tlcmod-1.1](https://github.com/MrPoloGit/tlcmod-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| True Invisibility | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Very Old Avalon (might be the first version) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
-| W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ✅ | ✅ | ❌ | ✅ |
+| W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Wallpaper | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 | World+ | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
-| XBox Controller | ??? | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| YYY E O Y | ??? | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| YYY Mystery Items Pack | ??? | 0.38 | ✅ | ✅ | ❌ | ✅ |
-| YYY Races Of Terraria | ??? | 0.38 | ✅ | ✅ | ❌ | ✅ |
+| XBox Controller | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| YYY E O Y | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| YYY Mystery Items Pack | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| YYY Races Of Terraria | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | YYY Yorais Wonderful World | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 
 
-## Random Unsorted
+## Needs to be resorted, this is obj files
 
 | Mod Name | Author | tConfig Version | Source Files | Builds | obj File | working obj file | Wiki Page |
 |----------|--------|-----------------|--------------|--------|----------|------------------|-----------|
