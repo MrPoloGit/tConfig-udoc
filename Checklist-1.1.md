@@ -260,6 +260,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Reborn_Mod (v0.22.7) | ??? | 0.22.7 | ❌ | ❌ | ✅ | ❌ |  |
 | Recipe Book (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Retribution of the Darkness (v0.35.0) | [Anton_ROTD](https://vk.com/rcreator) | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Retribution of the Darkness (v0.35.0) (1) | [Anton_ROTD](https://vk.com/rcreator) | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Roguelike (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | RPG (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Shockah Achievements (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
@@ -300,6 +301,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | W1K - Warhammer Pack (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K - Warhammer Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K CPR (v0.35.1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K CPR (v0.35.1) (1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
 | W1K CPR zip | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
 | W1K MM - 1.0.5 Balance (v0.28.1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.1 | ❌ | ❌ | ✅ | ❌ |  |
 | W1K MM - Difficulty Changer (v0.28.1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.1 | ❌ | ❌ | ✅ | ❌ |  |
