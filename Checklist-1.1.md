@@ -201,26 +201,140 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Nazi_Zombies_V2.7.2 (v0.22.8) | ??? | 0.22.8 |❌ | ❌ | ✅ | ❌ |  |
 | Necro SP (v0.36) | ??? | 0.36 |❌ | ❌ | ✅ | ❌ |  |
 | Necro SP | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| Never Enough Accessories | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
-| Never Enough Devices | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
-| Never Enough Headgear | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
-| Never Enough Magic | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
-| Never Enough Vanity | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
-| Never Enough Weaponry | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
+| Necro_SP_v1.91 (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Never Enough Accessories (v0.38 unsure if stable) | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Accessories | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Devices (v0.38 unsure if stable) | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Devices | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Headgear (v0.38 unsure if stable) | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Headgear | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Magic (v0.38 unsure if stable) | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Magic | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Vanity (v0.38 unsure if stable) | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Vanity | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Weaponry (v0.38 unsure if stable) | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Weaponry | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| NoTileBreak (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| NoTilePlacement (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| NPCTest (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Nyan Cat (v0.35.0) | ??? | 0.35.0 |❌ | ❌ | ✅ | ❌ |  |
+| Obsidian (v0.38 unstable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Obsidian (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Obsidian_Advancedweapons (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
+| Obsidian_CustomBosses (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
+| Obsidian_Global (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
+| Obsidian_Ice (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
+| Obsidian_ParallelWorld (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
+| Obsidian_Pets (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
+| Obsidian_Tools (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
+| Old Avalon (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| OldPortal Mod (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Omnirs C, TaFF -- CW Yorai Mods (fails) | Omnir | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Omnirs Creatures, TaFF items (fails) | Omnir | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Omnirs Furniture (v0.28.8) | Omnir | 0.28.8 | ❌ | ❌ | ✅ | ❌ |  |
+| Omnirs Melee Weapons (v0.28.8) | Omnir | 0.28.8 | ❌ | ❌ | ✅ | ❌ |  |
+| Omnir's Nostalgia Pack (v0.28.8) | Omnir | 0.28.8 | ❌ | ❌ | ✅ | ❌ |  |
+| Omnir's Nostalgia Pack Blasting (v0.38 unsure if stable) | Omnir | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Omnir's Nostalgia Pack Digging (v0.38 unsure if stable) | Omnir | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Omnir's Nostalgia Pack Low HP (v0.38 unsure if stable) | Omnir | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Omnir's Nostalgia Pack No Blast (v0.38 unsure if stable) | Omnir | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Omnirs_Creatures_TaFF_items_No_Blast (0.23.1) | Omnir | 0.23.1 | ❌ | ❌ | ✅ | ❌ |  |
+| Omnirs_Melee_Weapons (v0.23.1) | Omnir | 0.23.1 | ❌ | ❌ | ✅ | ❌ |  |
+| Other_Worlds (v0.23.1) | ??? | 0.23.1 | ❌ | ❌ | ✅ | ❌ |  |
+| Paradise Lost (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| PASE 002 (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | PASE 002 | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Peaceful Mode (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Peaceful Mode | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Pickaxe_v1.3a (requires Universal Dye Pack) (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Plane (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Poro's Dutvutanian Mod (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Poro's MWNN Mod (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Portal Mod (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| PTS (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| PVP (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| QuickDestroy (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Races The Redux (v0.35.3) | ??? | 0.35.3 | ❌ | ❌ | ✅ | ❌ |  |
+| Randomized NPCs (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Randomized NPCs | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| Retribution of the Darkness | [Anton_ROTD](https://vk.com/rcreator) | 0.35 | ❌ | ❌ | ✅ | ❌ |  |
+| Reborn_Mod (v0.22.7) | ??? | 0.22.7 | ❌ | ❌ | ✅ | ❌ |  |
+| Recipe Book (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Retribution of the Darkness (v0.35.0) | [Anton_ROTD](https://vk.com/rcreator) | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Roguelike (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| RPG (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Shockah Achievements (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Shockah Boss HP Bar (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Shockah Haunted Mine (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Shockah HP Bars (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Shockah Item Manager (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Shockah Shop Info (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Shockah World+ (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Sign Text (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Sign Text | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| SillyNPCs (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | SillyNPCs | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| SimpleTransferExample (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| SonnyMod (v0.38 unsure if stable) | Sonny | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | SonnyMod | Sonny | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Spigot (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Spigot | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Stacks Up! (v0.34.1) | ??? | 0.34.1 | ❌ | ❌ | ✅ | ❌ |  |
+| Stats (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Steve (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Steve | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| SwampPack (v0.38 unstable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| SwampPack (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| tConfig Debugger (v0.35.2) | ??? | 0.35.2 | ❌ | ❌ | ✅ | ❌ |  |
+| Terrariastuck (BO4 hotfix) (v0.34.0) | ??? | 0.34.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Three Stats (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Tile Performance (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| True Invisibility (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| TScript (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Unique Treasure (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Universal_Dye_Pack (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Vertigo Elemental (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - Monster Hunter Pack (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - Touhou Pack (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K - Touhou Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - Warhammer Pack (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K - Warhammer Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| W1K - CPR | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K CPR (v0.35.1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K CPR zip | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K MM - 1.0.5 Balance (v0.28.1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.1 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K MM - Difficulty Changer (v0.28.1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.1 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K MM - Hunger System (v0.29.0) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.29.0 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K MM - Liquids Modifier (v0.27.2) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.27.2 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K MM - Position Saver (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| World of Falana (v0.35.1) | ??? | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
+| WorldGen Mod (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| WorldGen Plus (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| X-Boots (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Xbox Controller (v0.35.1) | ??? | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
+| Xbox Controller Mod (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Yorais_Dual_Wielding (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Yoraiz0rs Cheat Menu (v0.37) | ??? | 0.37 | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Bonfire Syndrome (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY DW TAO2 (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY E O Y (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Final Cheat Menu (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY HLR (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Holotiles Static Set (v0.35.0) |
+| YYY Holowires (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Improved Mannequins (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Mystery Items Pack (1) (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Mystery Items Pack (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Races Of Terraria (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY SAS (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Serverside Saving (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Shields Complementary Pack (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Step Up (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Visible Accessories (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Yorais Wonderful World (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| YYY_Step_Up (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| ZZZ DRAGON PET (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | ZZZ DRAGON PET | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| ZZZZ PROPER DARK SOULS (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | ZZZZ PROPER DARK SOULS | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 
 ## Future clean up
