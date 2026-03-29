@@ -99,7 +99,131 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | YYY Yorais Wonderful World | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 
 
-## Needs to be resorted, this is obj files
+## obj files (will compare to the source files we have)
+
+| Mod Name | Author | tConfig Version | Source Files | Builds | obj File | working obj file | Wiki Page |
+|----------|--------|-----------------|--------------|--------|----------|------------------|-----------|
+| 2 Day Challenge 1 | ??? | 0.33.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Accessory Slots+  (v0.34.1) | ??? | 0.34.1 | ❌ | ❌ | ✅ | ❌ |  |
+| Accessory_Slots (fail) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Additional Weapons Mod (v0.28.8) | ??? | 0.28.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Adventure Dialogue (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
+| Alternate Portal Mod (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
+| Alternate Portal Mod | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Anti-Gravity_Mover (v0.22.8) | ??? | 0.22.8 | ❌ | ❌ | ✅ | ❌ |  |
+| Avalon (v0.38 unsure if stable and what version) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Avalon | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Awesome Christmas (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| BaseMod (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Binding of Terraria (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Binding of Terraria | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Boss_HP_Bar (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Builders_Pack (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Builders_Pack (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Built-In (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Caelum Ignota  (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Capture The Flag (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Challenges (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Challenges | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| CharError (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Cheat Menu Modded (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Classy_Extras_v1.3a (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Classy_Magic_v1.3a (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Classy_Melee_v1.3a (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Classy_NPCs_v1.3a (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Classy_Tools_v1.3a (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Colored wires (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| CompilationMod (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Corruptor Mod (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Daggers (v0.27.1) | ??? | 0.27.1 | ❌ | ❌ | ✅ | ❌ |  |
+| Dark Souls (1) (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Dark Souls (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Dark_Souls_darksouls (1) (v0.35.3) | ??? | 0.35.3 | ❌ | ❌ | ✅ | ❌ |  |
+| Dark_Souls_redcloudmsd (v0.35.3) | ??? | 0.35.3 | ❌ | ❌ | ✅ | ❌ |  |
+| Defaults (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Dual Wielding (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Due West (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Durability (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Dust and Sound Catalog (v0.22.8) | ??? | 0.22.8 | ❌ | ❌ | ✅ | ❌ |  |
+| Dying Soul (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Elemental Source (v0.28.7) | ??? | 0.28.7 | ❌ | ❌ | ✅ | ❌ |  |
+| Enchantmentlocal (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Evil Modpack (v0.22.2) | ??? | 0.22.2 | ❌ | ❌ | ✅ | ❌ |  |
+| Ex_Flail (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Ex_Flail | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Examples - Prefixes (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Examples - Tiles (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Examples (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Fast Progression (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Final Cheat Menu 2 (v0.36) | ??? | 0.36 | ❌ | ❌ | ✅ | ❌ |  |
+| Final Cheat Menu 2 | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Finaller Cheat Menu (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Flashkirby's Mounts and Stuff (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Flashkirby's Weapons (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Flashlight + Fireworks (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Furniture Examples - Test (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
+| Gamepad Mod (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
+| GameplayTest (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
+| GenTest (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
+| Glue & Paint Gun (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| GodMode 2 (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
+| GodMode 3 (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Grables_Recipe_Book (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Gravity Gun (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Green_Cats_Autosave_Players (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Groxmod (requires BaseMod) (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
+| Hardmode Plus (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Health Up! (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
+| Health Up! | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Infinity Chest (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Infinity Chest | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Jensen's Moon Mod (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
+| Jewelcrafting Mod (v0.38 unsure if stable) zip | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Kurobari (v0.38 unstable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Kurobari (v0.38 unsure if stable) (1) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| LBP (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| LBP | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Magic Mirror Hotkey (v0.35.2) | ??? | 0.35.2 |❌ | ❌ | ✅ | ❌ |  |
+| Meteor Brick Sample by wiring (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| MethodTest (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Metroid Morph Ball (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Metroid Morph Ball | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Metroid_Mod_1.2d (v0.38 unsure if stable) zip | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| MiraiMais_Dual_Wielding (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Mirrors (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Mirrors | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Monster_Hunter_Terra12345 (v0.22.8) | ??? | 0.22.8 |❌ | ❌ | ✅ | ❌ |  |
+| More Chests (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| More Chests | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Mystic Horizons (v0.35.0) | ??? | 0.35.0 |❌ | ❌ | ✅ | ❌ |  |
+| Mystical Tomes (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Mystical_Tomes (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Nazi_Zombies_V2.7.2 (v0.22.8) | ??? | 0.22.8 |❌ | ❌ | ✅ | ❌ |  |
+| Necro SP (v0.36) | ??? | 0.36 |❌ | ❌ | ✅ | ❌ |  |
+| Necro SP | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Accessories | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
+| Never Enough Devices | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
+| Never Enough Headgear | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
+| Never Enough Magic | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
+| Never Enough Vanity | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
+| Never Enough Weaponry | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |
+| PASE 002 | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Peaceful Mode | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Randomized NPCs | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Retribution of the Darkness | [Anton_ROTD](https://vk.com/rcreator) | 0.35 | ❌ | ❌ | ✅ | ❌ |  |
+| Sign Text | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| SillyNPCs | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| SonnyMod | Sonny | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Spigot | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Steve | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - Touhou Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - Warhammer Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - CPR | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
+| ZZZ DRAGON PET | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| ZZZZ PROPER DARK SOULS | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+
+## Future clean up
 
 | Mod Name | Author | tConfig Version | Source Files | Builds | obj File | working obj file | Wiki Page |
 |----------|--------|-----------------|--------------|--------|----------|------------------|-----------|
@@ -110,9 +234,6 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Terrariastuck | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
 | W1K - Metroid | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
 | W1k - Misc | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K - Touhou Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K - Warhammer Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K - CPR | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
 | W1K MM - 1.0.5 Balence | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
 | W1K MM - Difficulty Changer | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
 | W1K MM - Hunger System | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
@@ -266,13 +387,10 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Metroid Morph Ball | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Metroid_Mod_1.2d | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | MiraiMais_Dual_Wielding | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Mirrors | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Monster_Hunter_Terra12345 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| More Chests | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Mystical Tomes | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Mystical_Tomes | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Nazi_Zombies_V2.7.2 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Necro SP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Necro_SP_v1.91 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | NoTileBreak | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | NoTilePlacement | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
@@ -291,25 +409,19 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Omnirs_Creatures_TaFF_items_No_Blast | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Omnirs_Melee_Weapons | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Other_Worlds | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| PASE 002 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Peaceful Mode | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Pickaxe_1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Plane | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | PTS | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | PVP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | QuickDestroy | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Races The Redux | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Randomized NPCs | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Reborn_Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Recipe Book | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Retribution of the Darkness | [Anton_ROTD](https://vk.com/rcreator) | 0.31.1b | ❌ | ❌ | ❌ | ✅ |  |
 | RPG | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| SillyNPCs | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | SimpleTransferExample | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Spigot | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Stacks Up! | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Stats | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Steve | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | SwampPack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | TerrariastuckB04hotfix | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | Three Stats | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
@@ -340,8 +452,6 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | YYY Step Up | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY Visible Accessories | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY_Step_Up | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| ZZZ DRAGON PET | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| ZZZZ PROPER DARK SOULS | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 
 
 
@@ -372,4 +482,3 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Sword Pack | Offline | ??? | ❌ | ❌ | ❌ | ❌ |
 | VarietyPak | NeonJ | 0.26.4 | ❌ | ❌ | ❌ | ❌ |
 | Kjulos Mod (1.0 Beta) | Kjulo | ??? | ❌ | ❌ | ❌ | ❌ |
-| SonnyMod | Sonny | ??? | ❌ | ❌ | ❌ | ❌ |
