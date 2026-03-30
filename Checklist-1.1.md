@@ -5,6 +5,7 @@
 - https://tconfig.fandom.com/wiki/Romulan_Paladin%27s_Dust_and_Sound_Catalog_Mod
 - https://tconfig.fandom.com/wiki/Paradise_Lost/old
 - https://www.dropbox.com/s/4czhchi9l45gq35/Terraria%20Mod%20Archive%20V5.zip?dl=0 
+- https://forums.terraria.org/index.php?threads/xinput-gamepad-support-mod-pre-1-3.1260/
 
 | Symbol | Meaning |
 |--------|--------|
@@ -105,18 +106,27 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 |----------|--------|-----------------|--------------|--------|----------|------------------|-----------|
 | 2 Day Challenge 1 | ??? | 0.33.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Accessory Slots+  (v0.34.1) | ??? | 0.34.1 | ❌ | ❌ | ✅ | ❌ |  |
+| Accessory Slots+  (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Accessory_Slots (fail) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Achievements (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Additional Weapons Mod (v0.28.8) | ??? | 0.28.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Advanced Crafting Menu 2 (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Adventure Dialogue (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
 | Alternate Portal Mod (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
 | Alternate Portal Mod | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Anti-Gravity_Mover (v0.22.8) | ??? | 0.22.8 | ❌ | ❌ | ✅ | ❌ |  |
+| Avalon (v0.35.0) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Avalon (v0.38 unsure if stable and what version) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Avalon v16.6 (fails) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
+| Avalon v17.2 (fails) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
+| Avalon v17.3 (fails) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
+| Avalon v17.3.1 (fails) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
 | Avalon | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Awesome Christmas (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | BaseMod (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Binding of Terraria (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Binding of Terraria | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Boss HP Bar (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Boss_HP_Bar (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Builders_Pack (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Builders_Pack (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
@@ -148,20 +158,25 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Dying Soul (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Elemental Source (v0.28.7) | ??? | 0.28.7 | ❌ | ❌ | ✅ | ❌ |  |
 | Enchantmentlocal (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Epic Loot (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Evil Modpack (v0.22.2) | ??? | 0.22.2 | ❌ | ❌ | ✅ | ❌ |  |
 | Ex_Flail (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Ex_Flail | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Examples - Prefixes (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Examples - Tiles (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Examples (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Examples (v0.38 unsure if stable) zip | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Examples (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Fast Progression (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Final Cheat Menu 2 (v0.36) | ??? | 0.36 | ❌ | ❌ | ✅ | ❌ |  |
+| Final Cheat Menu 2 (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Final Cheat Menu 2 | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Finaller Cheat Menu (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Flashkirby's Mounts and Stuff (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Flashkirby's Weapons (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Flashlight + Fireworks (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Furniture Examples - Test (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
+| Gamepad Mod (v0.38 unsure if stable) (1) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
 | Gamepad Mod (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
 | GameplayTest (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
 | GenTest (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
@@ -173,10 +188,14 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Green_Cats_Autosave_Players (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Groxmod (requires BaseMod) (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
 | Hardmode Plus (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Health Interface (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Health Up! | ??? | 0.34.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Health Up! (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
 | Health Up! | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| HP Bars (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Infinity Chest (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Infinity Chest | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Item Manager (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Jensen's Moon Mod (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
 | Jewelcrafting Mod (v0.38 unsure if stable) zip | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Kurobari (v0.38 unstable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
@@ -196,6 +215,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | More Chests (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | More Chests | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Mystic Horizons (v0.35.0) | ??? | 0.35.0 |❌ | ❌ | ✅ | ❌ |  |
+| Mystical Tomes (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Mystical Tomes (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Mystical_Tomes (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Nazi_Zombies_V2.7.2 (v0.22.8) | ??? | 0.22.8 |❌ | ❌ | ✅ | ❌ |  |
@@ -206,6 +226,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Never Enough Accessories | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Never Enough Devices (v0.38 unsure if stable) | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Never Enough Devices | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never Enough Headgear (v0.34.1) | MiraiMai | 0.34.1 | ❌ | ❌ | ✅ | ❌ |  |
 | Never Enough Headgear (v0.38 unsure if stable) | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Never Enough Headgear | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Never Enough Magic (v0.38 unsure if stable) | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
@@ -214,6 +235,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Never Enough Vanity | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Never Enough Weaponry (v0.38 unsure if stable) | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Never Enough Weaponry | MiraiMai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Never-Ending Christmas (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | NoTileBreak (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | NoTilePlacement (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | NPCTest (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
@@ -242,6 +264,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Omnirs_Melee_Weapons (v0.23.1) | Omnir | 0.23.1 | ❌ | ❌ | ✅ | ❌ |  |
 | Other_Worlds (v0.23.1) | ??? | 0.23.1 | ❌ | ❌ | ✅ | ❌ |  |
 | Paradise Lost (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Party Heads (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | PASE 002 (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | PASE 002 | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Peaceful Mode (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
@@ -251,6 +274,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Poro's Dutvutanian Mod (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Poro's MWNN Mod (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Portal Mod (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Portal Mod (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | PTS (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | PVP (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | QuickDestroy (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
@@ -263,6 +287,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Retribution of the Darkness (v0.35.0) (1) | [Anton_ROTD](https://vk.com/rcreator) | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Roguelike (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | RPG (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Shake Off Buffs (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Shockah Achievements (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Shockah Boss HP Bar (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Shockah Haunted Mine (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
@@ -270,6 +295,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Shockah Item Manager (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Shockah Shop Info (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Shockah World+ (v0.35.0) | Shockah | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Shop Info (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Sign Text (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Sign Text | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | SillyNPCs (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
@@ -280,13 +306,16 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Spigot (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Spigot | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Stacks Up! (v0.34.1) | ??? | 0.34.1 | ❌ | ❌ | ✅ | ❌ |  |
+| Stacks Up! (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
 | Stats (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Steve (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Steve | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | SwampPack (v0.38 unstable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | SwampPack (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | tConfig Debugger (v0.35.2) | ??? | 0.35.2 | ❌ | ❌ | ✅ | ❌ |  |
-| Terrariastuck (BO4 hotfix) (v0.34.0) | ??? | 0.34.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Terraria Avalon v16.6 zip (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Terrariastuck (BO4 hotfix) (v0.34.0) | Shockah | 0.34.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Terrariastuck | Shockah | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Three Stats (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Tile Performance (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | True Invisibility (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
@@ -294,19 +323,30 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Unique Treasure (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Universal_Dye_Pack (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Vertigo Elemental (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - Metroid Pack (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - Misc Pack (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - Monster Hunter Pack (v0.38 unsure if stable) (1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K - Monster Hunter Pack (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - Touhou Pack (v0.38 unsure if stable) (1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K - Touhou Pack (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K - Touhou Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K - Warhammer Pack (v0.38 unsure if stable) (1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K - Warhammer Pack (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K - Warhammer Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K CPR (v0.35.1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
 | W1K CPR (v0.35.1) (1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
 | W1K CPR zip | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K CPR (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K MM - 1.0.5 Balance (v0.28.1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.1 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K MM (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K MM - Difficulty Changer (v0.28.1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.1 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K MM - Difficulty Changer (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K MM - Hunger System (v0.29.0) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.29.0 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K MM - Hunger System (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38| ❌ | ❌ | ✅ | ✅ |  |
 | W1K MM - Liquids Modifier (v0.27.2) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.27.2 | ❌ | ❌ | ✅ | ❌ |  |
+| W1K MM - Liquids Modifier (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| W1K MM - Position Saver (v0.38 unsure if stable) (1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K MM - Position Saver (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | World of Falana (v0.35.1) | ??? | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
 | WorldGen Mod (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
@@ -322,9 +362,11 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | YYY Final Cheat Menu (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | YYY HLR (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | YYY Holotiles Static Set (v0.35.0) |
+| YYY Holowires (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | YYY Holowires (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | YYY Improved Mannequins (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | YYY Mystery Items Pack (1) (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Mystery Items Pack (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | YYY Mystery Items Pack (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | YYY Races Of Terraria (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | YYY SAS (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
