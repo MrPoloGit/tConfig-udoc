@@ -66,7 +66,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Poro's Dutvutanian Mod | Poro | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Poro's MWNN Mod | Poro | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Portal Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| [Project-1.1](https://github.com/MrPoloGit/Project-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ❌ | ✅ | ✅ | ✅ |
+| [Project-1.1](https://github.com/MrPoloGit/Project-1.1) | [MrPoloGit](https://github.com/MrPoloGit) | 0.38 | ❌ | ✅ | ✅ | ✅ |
 | Roguelike | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | RomulanPaladin's Dust and Sound Catalog v0_1 | RomulanPaladin | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Russian Avalon Mashup | ??? | 0.38 | ❌ | ❌ | ❌ | ❌ |
@@ -87,7 +87,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | tConfig Debugger | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 | The Drone | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | The Story of Red Cloud 2018 Update | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
-| [tlcmod-1.1](https://github.com/MrPoloGit/tlcmod-1.1) | [MrPolo](https://github.com/MrPoloGit) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| [tlcmod-1.1](https://github.com/MrPoloGit/tlcmod-1.1) | [MrPoloGit](https://github.com/MrPoloGit) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | True Invisibility | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Very Old Avalon (might be the first version) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 | W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -354,28 +354,28 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | X-Boots (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Xbox Controller (v0.35.1) | ??? | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
 | Xbox Controller Mod (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
-| Yorais_Dual_Wielding (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Yorais_Dual_Wielding (fails) | yorai | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Yoraiz0rs Cheat Menu (v0.37) | ??? | 0.37 | ❌ | ❌ | ✅ | ❌ |  |
-| YYY Bonfire Syndrome (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| YYY DW TAO2 (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| YYY E O Y (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| YYY Final Cheat Menu (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| YYY HLR (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Bonfire Syndrome (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY DW TAO2 (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY E O Y (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Final Cheat Menu (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY HLR (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | YYY Holotiles Static Set (v0.35.0) |
-| YYY Holowires (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
-| YYY Holowires (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| YYY Improved Mannequins (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
-| YYY Mystery Items Pack (1) (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
-| YYY Mystery Items Pack (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
-| YYY Mystery Items Pack (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| YYY Races Of Terraria (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| YYY SAS (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| YYY Serverside Saving (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
-| YYY Shields Complementary Pack (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| YYY Step Up (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
-| YYY Visible Accessories (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| YYY Yorais Wonderful World (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
-| YYY_Step_Up (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Holowires (v0.35.0) | yorai | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Holowires (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Improved Mannequins (v0.35.0) | yorai | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Mystery Items Pack (1) (fails) | yorai | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Mystery Items Pack (v0.35.0) | yorai | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Mystery Items Pack (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Races Of Terraria (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY SAS (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Serverside Saving (v0.35.0) | yorai | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Shields Complementary Pack (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Step Up (v0.35.0) | yorai | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Visible Accessories (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| YYY Yorais Wonderful World (fails) | yorai | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| YYY_Step_Up (fails) | yorai | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | ZZZ DRAGON PET (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | ZZZ DRAGON PET | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | ZZZZ PROPER DARK SOULS (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
