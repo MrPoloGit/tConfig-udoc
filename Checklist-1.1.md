@@ -21,37 +21,50 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Mod Name | Author | tConfig Version | Source Files | Builds | obj File | working obj file | Wiki Page |
 |----------|--------|-----------------|--------------|--------|----------|------------------|-----------|
 | Accessory Slots+ | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Accessory Slots+ (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Achievements | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅  | ✅ | ✅ |
+| Achievements (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅  | ✅ | ✅ |
 | Advanced Crafting Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Advanced Crafting Menu 2 (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | [Avalon](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ✅ | ✅ | ✅ | ✅ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
 | [Avalon (fail)](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | ??? | ✅ | ❌ | ❌ | ❌ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
 | Avalon (Junkyard) | ??? | ??? | ❌ | ❌ | ❌ | ❌ |
 | Avalon Rewrite | ??? | ??? | ✅ | ✅ | ❌ | ❌ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
 | Awesome Christmas (fail) | ??? | ??? | ❌ | ❌ | ❌ | ❌ |
+| Awesome Christmas (fail) (1) | ??? | ??? | ❌ | ❌ | ❌ | ❌ |
 | Awesome Christmas | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Base Mod | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Boss HP Bar | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Boss HP Bar (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Classy Magic 1.1.1 | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Defaults | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Epic Loot | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ❌ | ❌ | ✅ |
+| Epic Loot (1) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ❌ | ❌ | ✅ |
 | Epic Loot - Elemental | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ? | ❌ | ❌ | ✅ |
 | Epic Loot 2 | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ❌ | ❌ | ✅ |
+| Epic Loot 2 (2) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ❌ | ❌ | ✅ |
 | Final Cheat Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Final Cheat Menu 2 (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Finaller Cheat Menu | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Flashkirby's Mounts and Stuff | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Flashkirby's Weapons | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Flashlight + Fireworks | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Gamepad Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Gamepad Mod (1) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Glue & Paint Gun | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | GodMode 3 | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Gold's Pickaxe Pack | Gold | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Gravity Gun | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | Groxmod (requires BaseMod) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 | Health Interface | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Health Up! | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
+| Health Interface (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Health Up! | ??? | ??? | ✅ | ❌ | ❌ | ✅ |
+| Health Up! (1) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | HP Bars | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| HP Bars (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Industrail Revloution mod | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Item Manager | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Item Manager (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Jensen's Moon Mod | Jensen | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Jewelcrafting Mod | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Kjulos Mod | ??? | ??? | ❌ | ❌ | ❌ | ❌ |
@@ -68,20 +81,25 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Never Enough Vanity | MiraiMai | ??? | ❌ | ❌ | ❌ | ✅ |
 | Never Enough Weaponry | MiraiMai | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Never-Ending Christmas | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Note Blocks |
+| Never-Ending Christmas (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Note Blocks | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
+| Note Blocks (1) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | Nyan Cat | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 | Obsidian Mod | ??? | ??? | ✅ | ✅ | ❌ | ✅ |
 | Obsidian Sword | ??? | ??? | ✅ | ✅ | ❌ | ✅ |
 | Obsidian Sword (1) | ??? | ??? | ✅ | ✅ | ❌ | ✅ |
-| Obsidian_Global | ??? | ??? | ✅ | ✅ | ❌ | ✅ |
+| Obsidian_Global | ??? | ??? | ✅ | ✅ | ✅ | ❌ |
+| Obsidian_Global | ??? | ??? | ✅ | ✅ | ✅ | ❌ |
 | oof (retribution of some shit) |
 | [Paradise Lost](https://tconfig.fandom.com/wiki/Paradise_Lost) | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Party Heads | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Party Heads (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Poro's Dutvutanian Mod | Poro | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Poro's MWNN Mod | Poro | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Portal Gun | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Portal Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Portal Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |??? | ✅ | ❌ | ❌ | ❌ |
+| Portal Mod (1) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |??? | ✅ | ❌ | ❌ | ❌ |
 | Portal Mod v1.0 | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |??? | ✅ | ❌ | ❌ | ❌ |
 | Portal Mod (1) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | [Project-1.1](https://github.com/MrPoloGit/Project-1.1) | [MrPoloGit](https://github.com/MrPoloGit) | 0.38 | ❌ | ✅ | ✅ | ✅ |
@@ -91,6 +109,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | RomulanPaladin's Dust and Sound Catalog v0_1 | RomulanPaladin | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Russian Avalon Mashup | ??? | 0.38 | ❌ | ❌ | ❌ | ❌ |
 | Shake Off Buffs | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Shake Off Buffs (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Shockah Achievements | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Shockah Boss HP Bar | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Shockah Haunted Mine | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -98,11 +117,14 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Shockah Item Manager | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Shockah Shop Info | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Shockah World+ | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Shockah's Quest Mod | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |
-| Shop Info | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | ??? | ❌ | ❌ | ❌ | ✅ |
+| Shockah's Quest Mod | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ✅ | ❌ | ❌ | ❌ |
+| Shockah's Quest Mod | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ✅ | ❌ | ❌ | ❌ |
+| Shop Info (fails) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | ??? | ❌ | ❌ | ❌ | ✅ |
+| Shop Info | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Silpm Mod | Silpm | ??? | ❌ | ❌ | ❌ | ✅ |
 | SonnyMod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 | Stacks Up! | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Stacks Up! (1) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Supa Mushroom | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 | Supa Mushroom (1) | ??? | ??? | ✅ | ✅ | ✅ | ❌ |
 | SUPER SLIME | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
@@ -117,7 +139,8 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Very Old Avalon (might be the first version) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
 | W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Wallpaper | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
-| World+ | ??? | ??? | ❌ | ❌ | ❌ | ✅ |
+| World+ | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
+| World+ (1) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | XBox Controller | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Xbox Controller Mod | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | YYY Holotiles Static Set | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -375,8 +398,6 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | W1K - Warhammer Pack (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K - Warhammer Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K CPR (v0.35.1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
-| W1K CPR (v0.35.1) (1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
-| W1K CPR zip | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
 | W1K CPR (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K MM - 1.0.5 Balance (v0.28.1) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.1 | ❌ | ❌ | ✅ | ❌ |  |
 | W1K MM (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
@@ -680,3 +701,6 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Sword Pack | Offline | ??? | ❌ | ❌ | ❌ | ❌ |
 | VarietyPak | NeonJ | 0.26.4 | ❌ | ❌ | ❌ | ❌ |
 | Kjulos Mod (1.0 Beta) | Kjulo | ??? | ❌ | ❌ | ❌ | ❌ |
+
+
+| Shockah's Mod | idk where
