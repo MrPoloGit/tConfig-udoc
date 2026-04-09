@@ -259,7 +259,8 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | NPCTest (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Nyan Cat (v0.35.0) | ??? | 0.35.0 |❌ | ❌ | ✅ | ❌ |  |
 | Obsidian (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| Obsidian Mod (No Rain) (0.24) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Obsidian Mod (No Rain) (0.24) | ??? | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
+| Obsidian Mod (No Rain) (0.36) | ??? | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
 | Obsidian Mod (v0.24) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Obsidian_Advancedweapons (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
 | Obsidian_CustomBosses (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
@@ -484,7 +485,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Sigia's Mod | Sigia | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Silpa Mod | Silpa | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
 | Terraria Avalon | blahblahbal | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
-| Zoodle's Content Packs | Zoodletec | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
+| Zoodle's Content Packs | Zoodletec | 0.33.0??? | ❌ | ❌ | ❌ | ❌ |
 | Kjulo's DLC | Kjulo | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
 | Weird Weapon Mod | SpyStone | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
 | Other Worlds | Dogsonofawolf | 0.22.3 | ❌ | ❌ | ❌ | ❌ |
@@ -530,151 +531,4 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 
 ## Random (unconfirmed)
 - Shockah's Mod
-
-
-## TEMP DUMP WILL DELETE this is really wrong and broken stuff
-
-| Mod Name | Author | tConfig Version | Source Files | Builds (on version) | obj File | working obj file | Link |
-|----------|--------|-----------------|--------------|---------------------|----------|------------------|------|
-| Shockah Never-Ending Christmas | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Examples | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| Terrariastuck | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
-| W1K - Metroid | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1k - Misc | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K MM - 1.0.5 Balence | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K MM - Difficulty Changer | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K MM - Hunger System | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K MM - Liquids Modifier | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K MM - Position Saver | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| Defaults | ??? | | ❌ | ❌ | ❌ | ❌ |  |
-| Zoodle's Content Packs | Zoodletec | 0.33.0 | ❌ | ❌ | ❌ | ❌ |
-| SwampPack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| 2 Day Challenge 1 | ??? | 0.33.0 | ❌ | ❌ | ❌ | ✅ |  |
-| Accessory Slots | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Additional Weapons Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Adventure Dialogue | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| AI collection | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Alternate Portal Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Anti-Gravity Mover | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| BaseMod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Binding of Terraria | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Builders Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Built-In | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Caelum Ignota | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Capture The Flag | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Challenges | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| CharError | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Cheat Menu Modded | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Classy Vanity 1.1 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Classy_Extras_v1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Classy_Magic_v1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Classy_Melee_v1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Classy_NPCs_v1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Classy_Tools_v1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Colored wires | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| CompilationMod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Corruptor Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Daggers | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Dark Souls (1) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Dark Souls | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Dark_Souls_darksouls (1) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Dark_Souls_redcloudmsd | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| DefaultsModified | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| DefualtsTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Dual Wielding | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Due West | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Durability | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Dying Soul | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Elemental Source | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Enchantmentlocal | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Evil Modpack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Ex_Flail | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Examples - Prefixes | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Examples - Tiles | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Examples | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Fast Progression | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Finaller Cheat Menu | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Flashlight + Fireworks | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Furniture Examples | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| GameplayTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| GenTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Glue & Paint Gun | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| GodMode 2 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| GodMode 3 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Grables_Recipe_Book | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Green_Cats_Autosave_Players | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Hardmode Plus | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Infinity Chest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Kurobari | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| LBP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Meteor Brick Sample by Wiring | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| MethodTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| MetroidTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Metroid Morph Ball | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Metroid_Mod_1.2d | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| MiraiMais_Dual_Wielding | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Monster_Hunter_Terra12345 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Mystical Tomes | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Mystical_Tomes | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Nazi_Zombies_V2.7.2 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Necro_SP_v1.91 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| NoTileBreak | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| NoTilePlacement | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| NPCTest | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Old Avalon | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| OldPortal Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Omnirs C, TaFF -- CW Yorai Mods | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Omnirs Creatures, TaFF items | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Omnirs Furniture | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Omnirs Melee Weapons | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Omnir's Nostalgia Pack Blasting | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Omnir's Nostalgia Pack Digging | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Omnir's Nostalgia Pack Low HP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Omnir's Nostalgia Pack No Blast | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Omnir's Nostalgia Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Omnirs_Creatures_TaFF_items_No_Blast | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Omnirs_Melee_Weapons | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Other_Worlds | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Pickaxe_1.3a | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Plane | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| PTS | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| PVP | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| QuickDestroy | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Races The Redux | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Reborn_Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Recipe Book | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Retribution of the Darkness | [Anton_ROTD](https://vk.com/rcreator) | 0.31.1b | ❌ | ❌ | ❌ | ✅ |  |
-| RPG | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| SimpleTransferExample | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Stacks Up! | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Stats | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| SwampPack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| TerrariastuckB04hotfix | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Three Stats | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Thumbs | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Tile Performance | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| TScript | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Unique Treasure | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Universal_Dye_Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Vertigo Elemental | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| WorldGen Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| WorldGen Plus | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| X-Boots | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Xbox Controller Mod | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Yorais_Dual_Wielding | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| Yoraiz0rs Cheat Menu | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Bonfire Syndrome | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY DW TAO2 | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Final Cheat Menu | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY HLR | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Holotiles Static Set | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Holowires | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Improved Mannequins | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Mystery Items Pack (1) | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Mystery Items Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY SAS | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Serverside Saving | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Shields Complementary Pack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Step Up | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY Visible Accessories | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-| YYY_Step_Up | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
+- W1K MM - 1.0.5 Balence
