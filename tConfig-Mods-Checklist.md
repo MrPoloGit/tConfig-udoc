@@ -384,23 +384,30 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | ZZZ DRAGON PET | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | ZZZZ PROPER DARK SOULS | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 
-## Future clean up
 
-| Mod Name | Author | tConfig Version | Source Files | Builds | obj File | working obj file | Wiki Page |
-|----------|--------|-----------------|--------------|--------|----------|------------------|-----------|
-| Shockah Never-Ending Christmas | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) |  | ❌ | ❌ | ❌ | ✅ |  |
-| [The Kase Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-the-kase-mod.28017/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ✅ | ❌ | ❌ | ✅ | |
-| [Industrail Revolution Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-industrail-revolution-mod.38374/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ✅ | ❌ | ❌ | ✅ | |
-| Examples | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| Terrariastuck | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
-| W1K - Metroid | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1k - Misc | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K MM - 1.0.5 Balence | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K MM - Difficulty Changer | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K MM - Hunger System | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K MM - Liquids Modifier | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| W1K MM - Position Saver | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
-| Defaults | ??? | | ❌ | ❌ | ❌ | ❌ |  |
+## From tConfig Wiki
+- https://tconfig.fandom.com/wiki/ModPacks
+
+| Symbol | Meaning |
+|--------|--------|
+| ❌     | Not Done/Missing/Dead |
+| ⚠️     | Unverified/No Download |
+| ✅     | Downladable |
+
+### 1.1+ Compatible Mods 2.0
+
+| Mod Name | Author | tConfig Version | Source Files | Builds (on version) | obj File | working obj file | Link |
+|----------|--------|-----------------|--------------|---------------------|----------|------------------|------|
+| 13 Mods | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 3 Mods | [SurfPup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 12 Mods | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [The Kase Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-the-kase-mod.28017/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Industrial Revolution Mod](https://forums.terraria.org/index.php?threads/tconfig-mod-industrail-revolution-mod.38374/) | [Dragonpriest4](https://forums.terraria.org/index.php?members/dragonpriest4.12093/) | 0.36 | ✅ | ❌ | ❌ | ❌ | ✅ |
+
+### 1.1+ Compatible Mods (NEED TO REGO AND CONFIRM WITH THE NEW TABLE FORMAT)
+
+| Mod Name | Author | tConfig Version | Source Files | Builds (on version) | obj File | working obj file | Link |
+|----------|--------|-----------------|--------------|---------------------|----------|------------------|------|
 | [Green Cat's Xbox Controller Mod (needs more research)](https://forums.terraria.org/index.php?threads/xinput-gamepad-support-mod-pre-1-3.1260/) | [GreenCat77](https://forums.terraria.org/index.php?members/meowmaritus.5259/) | 0.35.3a | ❌ | ❌ | ❌ | ❌ |  |
 | ChadPack - Food | Chadwick | 0.35.1a | ❌ | ❌ | ❌ | ❌ |  |
 | W1K's Content Packs Remix | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1a |  ❌ |❌ | ❌ | ❌ |  |
@@ -413,8 +420,8 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Thorium Content Pack | DivermanSam | 0.34.0 | ❌ | ❌ | ❌ | ❌ |  |
 | Buildaria-like mod | Duze | 0.33.0 | ❌ | ❌ | ❌ | ❌ |  |
 | Super Metroid (and map) | Duze & ScooterBoot9697 | 0.33.0 | ❌ | ❌ | ❌ | ❌ |  |
-| Zoodle's Content Packs | Zoodletec | 0.33.0 | ❌ | ❌ | ❌ | ❌ |
 | Ace's Final Fantasy Modification | Ace the Best | 0.31.1b | ❌ | ❌ | ❌ | ❌ |  |
+| Retribution of the Darkness | Anton_ROTD | 0.31.1b | ❌ | ❌ | ❌ | ❌ |  |
 | Bright Souls Mod v0.1.00 | LALZNOOBS | 0.31.1a | ❌ | ❌ | ❌ | ❌ |  |
 | Recipe Book | grable | 0.30.4 | ❌ | ❌ | ❌ | ❌ |  |
 | Space Mod | Deceitful Echo | 0.30.4 | ❌ | ❌ | ❌ | ❌ |  |
@@ -428,6 +435,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Decorations and Wallpapers Pack | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
 | Disassembly Mod | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
 | Minecraft Hud Mod | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
+| Terrariastuck | W1K | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
 | xR Zer0's Workshop | Wingzero007 | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
 | Droid15243's Modpacks | Droid15243 | 0.28.6 | ❌ | ❌ | ❌ | ❌ |  |
 | Desert Pack | Eikester | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
@@ -444,6 +452,8 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | The Legend of Terraria | MiraiMai | 0.28.0 | ❌ | ❌ | ❌ | ❌ |  |
 | Dynamic Difficulty Adjustment | Arkhalis | 0.27.2 | ❌ | ❌ | ❌ | ❌ |  |
 | [Jewelcrafting Mod](https://www.dropbox.com/scl/fi/brt8sfl7nm04vmdq5sm4b/Jewelcrafting-Mod.zip?rlkey=mvc71qaqswka5qcmc5v6n2g9o&e=1) | [Deadwindshadow](https://steamcommunity.com/id/jimmyl) | 0.27.2 | ✅ | ❌ | ❌ | ✅ |  |
+| Never Enough Devices! | MiraiMai | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
+| Never Enough Mods! | MiraiMai | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
 | Metroid Mod | scooterboot9697 | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
 | WW2 Weapons Pack | Shadow123 | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
 | Hesperides Temple | Excitement | 0.27.1 | ❌ | ❌ | ❌ | ❌ |
@@ -457,21 +467,24 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | [Rustlesser's ModPack 1.0.6](https://terraria.fandom.com/ru/wiki/Rustlesser%27s_ModPack) | [Rustlesser](https://terraria.fandom.com/ru/wiki/UserProfile:Rustlesser) | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
 | Sandbox Elemental | Solenix | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
 | Assassins Creed Modpack | X-Spider | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
-| The Portal Mod (Surfpup) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.23.8 | ❌ | ❌ | ❌ | ❌ |
+| The Portal Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.23.8 | ❌ | ❌ | ❌ | ❌ |
 | tConfig Quest Mod | Wigglesniff | 0.23.8 | ❌ | ❌ | ❌ | ❌ |
 | The True and Balanced Pack | Wingzero007 | 0.23.8 | ❌ | ❌ | ❌ | ❌ |
 | Modern Warfare 3 Pack | warmaster949 | 0.23.7 | ❌ | ❌ | ❌ | ❌ |
 | Tiles example pack (Surfpup) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.23.4b | ❌ | ❌ | ❌ | ❌ |
 | Atomsk's Mods | AtomskShade | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Chest Colours | eliure | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| Dark Souls Mod (Tim Hjersted) | Tim Hjersted | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
+| Dark Souls Mod | Tim Hjersted | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Eggs! | Classikly | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Flag Mode | Light Sparkle | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| JMod (Joshua Searle) | Joshua Searle | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
+| JMod | Joshua Searle | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Katanas+ | Fish Bowl | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Platinum Gear | Classikly | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Poison Mod | Party_Poison | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
 | Sigia's Mod | Sigia | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
+| Silpa Mod | Silpa | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
+| Terraria Avalon | blahblahbal | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
+| Zoodle's Content Packs | Zoodletec | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
 | Kjulo's DLC | Kjulo | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
 | Weird Weapon Mod | SpyStone | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
 | Other Worlds | Dogsonofawolf | 0.22.3 | ❌ | ❌ | ❌ | ❌ |
@@ -479,10 +492,62 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Jordan's Modpack | Jordanlm98 | 0.21.7 | ❌ | ❌ | ❌ | ❌ |
 | Dogsonofawolf's NPCs | Dogsonofawolf | 0.21.0 | ❌ | ❌ | ❌ | ❌ |
 | Obsidian Mod | Obsidian | 0.19.6 | ❌ | ❌ | ❌ | ✅ |
-| Obsidian Mod (No Rain) | Obsidian | 0.19.6 | ❌ | ❌ | ❌ | ✅ |
-| Sword Pack (Aerobit) | Aerobit | 0.12.4 | ❌ | ❌ | ❌ | ❌ |
+| Sword Pack | Aerobit | 0.12.4 | ❌ | ❌ | ❌ | ❌ |
 | Misc ModPack | FatObeseBird | ??? | ❌ | ❌ | ❌ | ❌ |
 | Runescape Weapons | Robert | ??? | ❌ | ❌ | ❌ | ❌ |
+
+### Terraria tConfig 1.0.6.1 Compatible Mods
+
+| Mod Name | Author | tConfig Version | Source Files | Builds (on version) | obj File | working obj file | Link |
+|----------|--------|-----------------|--------------|---------------------|----------|------------------|------|
+| Death Pack | AlekakoC | 0.26.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Ice Pack | ??? | 0.26.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Rainbow Slime](https://www.mediafire.com/file/y45lwrbsj3r0l1k/SUPER+SLIME.rar) AKA SUPER SLIME | ??? | 0.26.2 | ✅ | ❌ |  ❌ | ❌ | ✅ |
+| Kjulo's Dlc | Kjulo | 0.26.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Greater Healing Potion | Catlover341 | ??? | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Amber Staff | Crimsonthorn | ??? | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Day Orb | ??? | ??? | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Kasudain's Arsenal | Kasudain | ??? | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Lawura's Builder Pack](https://tconfig.fandom.com/wiki/Lawura%27s_Builder_Pack) | Lawura | ??? | ❌ |  ❌ | ❌ | ❌ | ⚠️ |
+| Weapon & Tools Overhaul | MrNewGuy | ??? | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Obsidian Sword](https://www.mediafire.com/file/kw51c2o7w5bqlpw/Obsidian+Sword.zip) | Serlan | ??? |  ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Supa Mushroom](https://www.mediafire.com/file/7d5yo2bemb0642a/Supa+Mushroom.zip) | ??? | ??? | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Dwarven Mod Pack | ShadowPhang | ??? | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Barbershop | Slairne | 0.25.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Paradise Lost](https://tconfig.fandom.com/wiki/Paradise_Lost) | ??? | ??? | ❌ | ❌ | ❌ | ❌ | ⚠️ |
+| Goodie Box | ??? | 0.25.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Groovy Shirt | ??? | 0.25.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Lunar HP | ??? | 0.25.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Teleportation | ??? | 0.25.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Sagittarius Sword | ??? | 0.27.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Cosmic Crown | ??? | 0.27.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Portal Mod](https://www.mediafire.com/file/rgg67tqbsp664it/Portal%20Mod.zip) | Temphix | 0.27.0 | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Sword Pack | Offline | ??? | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Item Adventure Pack | Bullseye55 | 0.26.4 | ❌ | ❌ | ❌ | ❌ | ⚠️ |
+| VarietyPak | NeonJ | 0.26.4 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Kjulos Mod (1.0 Beta) | Kjulo | ??? | ❌ | ❌ | ❌ | ❌ | ❌ |
+| SonnyMod | Sonny | ??? | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+## Random (unconfirmed)
+- Shockah's Mod
+
+
+## TEMP DUMP WILL DELETE this is really wrong and broken stuff
+
+| Mod Name | Author | tConfig Version | Source Files | Builds (on version) | obj File | working obj file | Link |
+|----------|--------|-----------------|--------------|---------------------|----------|------------------|------|
+| Shockah Never-Ending Christmas | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | ??? | ❌ | ❌ | ❌ | ✅ |  |
+| Examples | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| Terrariastuck | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
+| W1K - Metroid | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1k - Misc | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K MM - 1.0.5 Balence | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K MM - Difficulty Changer | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K MM - Hunger System | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K MM - Liquids Modifier | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| W1K MM - Position Saver | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) |  | ❌ | ❌ | ❌ | ❌ |  |
+| Defaults | ??? | | ❌ | ❌ | ❌ | ❌ |  |
+| Zoodle's Content Packs | Zoodletec | 0.33.0 | ❌ | ❌ | ❌ | ❌ |
 | SwampPack | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | 2 Day Challenge 1 | ??? | 0.33.0 | ❌ | ❌ | ❌ | ✅ |  |
 | Accessory Slots | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
@@ -613,36 +678,3 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | YYY Step Up | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY Visible Accessories | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
 | YYY_Step_Up | ??? | ??? | ❌ | ❌ | ❌ | ✅ |  |
-
-
-
-## Terraria 1.0.6.1 Compatible Mods
-| Mod Name | Author | tConfig Version | Source Files | Builds | obj File | working obj file | Wiki Page |
-|----------|--------|-----------------|--------------|--------|----------|------------------|-----------|
-| Death Pack | AlekakoC | 0.26.2 | ❌ | ❌ | ❌ | ❌ |
-| Ice Pack | AlekakoC | 0.26.2 | ❌ | ❌ | ❌ | ❌ |
-| [Rainbow Slime](https://www.mediafire.com/file/y45lwrbsj3r0l1k/SUPER+SLIME.rar) | AlekakoC | 0.26.2 | ✅ | ❌ |  ❌ | ✅ |
-| Kjulo's Dlc | Kjulo | 0.26.2 | ❌ | ❌ | ❌ | ❌ |
-| Greater Healing Potion | Catlover341 | ??? | ❌ | ❌ | ❌ | ❌ |
-| Amber Staff | Crimsonthorn | ??? | ❌ | ❌ | ❌ | ❌ |
-| Day Orb | Crimsonthorn | ??? | ❌ | ❌ | ❌ | ❌ |
-| Kasudain's Arsenal | Kasudain | ??? | ❌ | ❌ | ❌ | ❌ |
-| [Lawura's Builder Pack](https://tconfig.fandom.com/wiki/Lawura%27s_Builder_Pack) | Lawura | ??? | ❌ |  ❌ | ❌ | ❌ |
-| Weapon & Tools Overhaul | MrNewGuy | ??? | ❌ | ❌ | ❌ | ❌ |
-| [Obsidian Sword](https://www.mediafire.com/file/kw51c2o7w5bqlpw/Obsidian+Sword.zip) | Serlan | ??? |  ✅ | ❌ | ❌ | ✅ |
-| [Supa Mushroom](https://www.mediafire.com/file/7d5yo2bemb0642a/Supa+Mushroom.zip) | ??? | ??? | ❌ | ❌ | ❌ | ❌ |
-| Dwarven Mod Pack | ShadowPhang | ??? | ❌ | ❌ | ❌ | ❌ |
-| Barbershop | Slairne | 0.25.2 | ❌ | ❌ | ❌ | ❌ |
-| Goodie Box | ??? | 0.25.2 | ❌ | ❌ | ❌ | ❌ |
-| Groovy Shirt | ??? | 0.25.2 | ❌ | ❌ | ❌ | ❌ |
-| Lunar HP | ??? | 0.25.2 | ❌ | ❌ | ❌ | ❌ |
-| Teleportation | ??? | 0.25.2 | ❌ | ❌ | ❌ | ❌ |
-| Sagittarius Sword | ??? | 0.27.3 | ❌ | ❌ | ❌ | ❌ |
-| Cosmic Crown | ??? | 0.27.3 | ❌ | ❌ | ❌ | ❌ |
-| [Portal Mod](https://www.mediafire.com/file/rgg67tqbsp664it/Portal%20Mod.zip) | Temphix | 0.27.0 | ✅ |  ❌ |❌ | ✅ |
-| Sword Pack | Offline | ??? | ❌ | ❌ | ❌ | ❌ |
-| VarietyPak | NeonJ | 0.26.4 | ❌ | ❌ | ❌ | ❌ |
-| Kjulos Mod (1.0 Beta) | Kjulo | ??? | ❌ | ❌ | ❌ | ❌ |
-
-
-| Shockah's Mod | idk where
