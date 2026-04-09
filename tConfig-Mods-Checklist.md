@@ -1,5 +1,9 @@
 # tConfig Mods Checklist
 
+- Some mods have different names but are the same mod, like for Shockah, need to check those
+- Need to check duplicates between source code and obj files specifically for 0.38 because those files can easily be rebuilts and we can delete the duplicates then
+- Need to go through the middle table from tConfig fandom
+
 ## Need to be looked at:
 - https://tconfig.fandom.com/wiki/Wingzero007_Mod_Tests
 - https://tconfig.fandom.com/wiki/Romulan_Paladin%27s_Dust_and_Sound_Catalog_Mod
