@@ -4,13 +4,14 @@
 - every single failing mod needs to be verified source code structure, extracted if obj, and rebuilt, and compared for duplicates
 - need to double check fails included in the table
 - Need to reorganize and fix files structures of failing
-    - Note Blocks (fail) - Override folder?
-    - oof, retribution of the something mode, weird install, and russian?
     - Portal Mod v1 (fails) - _picture folder?
     - Portal Mod v2 (fails)
+    - ROTD 1.0.1 - weird, russian?
+    - Russin Avalon Mashup (fails) - went through the induvidual mods and noted them
     - tConfig Debugger - release 11? messed up file structure will have to sort out, there is a 0.35.2 version to compare too
     - The Story of Red Cloud 2018 Update - look at instructions and decide if this is broken
-- Need to also compare extracted source code of older version objs to source code we have to determine if what source code was made to work on older versions, but ends up working on newer versions
+    - Wallpaper (fails), sorted out the induvidual mods and will have the diagrams for crafting translated
+-  Need to also compare extracted source code of older version objs to source code we have to determine if what source code was made to work on older versions, but ends up working on newer versions
 - Need to go through the middle table from tConfig fandom
 
 ## Need to be looked at:
@@ -38,8 +39,8 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Accessory Slots+ | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Achievements | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅  | ✅ | ✅ |
 | Advanced Crafting Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| [Avalon](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ✅ | ✅ | ✅ | ✅ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
-| [Avalon (1)](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ✅ | ✅ | ✅ | ✅ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
+| [Avalon v1](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ✅ | ✅ | ✅ | ✅ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
+| [Avalon v2](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ✅ | ✅ | ✅ | ✅ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
 | [Avalon (fails)](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | ??? | ✅ | ❌ | ❌ | ❌ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
 | [Avalon (might be the first version) (fails)](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | ??? | ✅ | ❌ | ❌ | ❌ |
 | Avalon Junkyard (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
@@ -58,8 +59,8 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Final Cheat Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Finaller Cheat Menu | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Flashkirby's Mounts and Stuff | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Flashkirby's Weapons | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Flashkirby's Weapons (1) | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Flashkirby's Weapons v1 | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Flashkirby's Weapons v2 | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Flashlight + Fireworks | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Gamepad Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Glue & Paint Gun | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -80,8 +81,8 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Magic Mirror Hotkey | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Minecarts | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Mystic Horizons | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Mystical Tomes | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Mystical Tomes (1) | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Mystical Tomes v1 | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Mystical Tomes v2 | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Never Enough Devices | MiraiMai | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Never Enough Magic | MiraiMai | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Never Enough Weaponry | MiraiMai | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -369,7 +370,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | YYY Holowires (v0.35.0) | yorai | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | YYY Holowires (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | YYY Improved Mannequins (v0.35.0) | yorai | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
-| YYY Mystery Items Pack (1) (fails) | yorai | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| YYY Mystery Items Pack (fails) | yorai | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | YYY Mystery Items Pack (v0.35.0) | yorai | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | YYY SAS (v0.38 unsure if stable) | yorai | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | YYY Serverside Saving (v0.35.0) | yorai | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
