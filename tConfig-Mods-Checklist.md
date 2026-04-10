@@ -2,16 +2,14 @@
 
 - Some mods have different names but are the same mod, like for Shockah, need to check those
 - every single failing mod needs to be verified source code structure, extracted if obj, and rebuilt, and compared for duplicates
+- need to double check fails included in the table
 - Need to reorganize and fix files structures of failing
     - Note Blocks (fail) - Override folder?
     - oof, retribution of the something mode, weird install, and russian?
     - Portal Mod v1 (fails) - _picture folder?
     - Portal Mod v2 (fails)
-    - Shockah's Quest Mod (fails), override folder
-    - Silpm Mod 1.0.1 (fails) - reorganize
     - tConfig Debugger - release 11? messed up file structure will have to sort out, there is a 0.35.2 version to compare too
     - The Story of Red Cloud 2018 Update - look at instructions and decide if this is broken
-    - Very old Avalon (might be first version) (fails) - fix file structure and try again, may only work for older versions of tConfig
 - Need to also compare extracted source code of older version objs to source code we have to determine if what source code was made to work on older versions, but ends up working on newer versions
 - Need to go through the middle table from tConfig fandom
 
@@ -41,7 +39,9 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Achievements | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅  | ✅ | ✅ |
 | Advanced Crafting Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | [Avalon](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ✅ | ✅ | ✅ | ✅ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
+| [Avalon (1)](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ✅ | ✅ | ✅ | ✅ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
 | [Avalon (fails)](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | ??? | ✅ | ❌ | ❌ | ❌ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
+| [Avalon (might be the first version) (fails)](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | ??? | ✅ | ❌ | ❌ | ❌ |
 | Avalon Junkyard (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | [Avalon v16.6](https://forums.terraria.org/index.php?threads/released-wip-terraria-avalon.378/) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ✅ | ✅ | ✅ | ✅ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
 | Avalon-Rewrite (obj issue) | ??? | ??? | ✅ | ✅ | ✅ | ❌ | [fandom](https://avalonmod.fandom.com/wiki/Terraria_Avalon_Mod_Wiki), [wiki.gg](https://terrariamods.wiki.gg/wiki/Avalon) |
@@ -54,17 +54,20 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Epic Loot | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ❌ | ❌ | ✅ |
 | Epic Loot 2 | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ❌ | ❌ | ✅ |
 | Examples (obj issue) | ??? | ??? | ✅ | ✅ | ✅ | ❌ |
+| Experience | ??? | ??? | ✅ | ✅ | ✅ | ✅ |
 | Final Cheat Menu 2 | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Finaller Cheat Menu | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Flashkirby's Mounts and Stuff | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Flashkirby's Weapons | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Flashkirby's Weapons (1) | Flashkirby | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Flashlight + Fireworks | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Gamepad Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Glue & Paint Gun | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | GodMode 3 | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Gold's Pickaxe Pack | Gold | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Gravity Gun | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
-| Groxmod (requires BaseMod) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
+| Gravity Gun (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
+| GRleam (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
+| Groxmod (requires BaseMod) (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | Health Interface | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Health Up! (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | HP Bars | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -75,8 +78,10 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Kjulos Mod | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | Life Bars | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Magic Mirror Hotkey | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Minecarts | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Mystic Horizons | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Mystical Tomes | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Mystical Tomes (1) | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Never Enough Devices | MiraiMai | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Never Enough Magic | MiraiMai | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Never Enough Weaponry | MiraiMai | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -95,9 +100,11 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | [Project-1.1](https://github.com/MrPoloGit/Project-1.1) | [MrPoloGit](https://github.com/MrPoloGit) | 0.38 | ❌ | ✅ | ✅ | ✅ |
 | PTS | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Recipe Book | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| RenzPack | Renz | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Roguelike | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | RomulanPaladin's Dust and Sound Catalog v0_1 | RomulanPaladin | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Russian Avalon Mashup | ??? | 0.38 | ✅ | ❌ | ❌ | ❌ |
+| Russian Avalon Mashup (fails) | ??? | 0.38 | ✅ | ❌ | ❌ | ❌ | went through the induvidual mods need russians to read |
+| San's Mod | San | 0.38 | ✅ | ❌ | ❌ | ❌ |
 | Shake Off Buffs | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Shockah Achievements | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Shockah Boss HP Bar | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -119,7 +126,6 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Thorium Content Pack | [DivermanSam](https://forums.terraria.org/index.php?members/divermansam.884/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | [tlcmod-1.1](https://github.com/MrPoloGit/tlcmod-1.1) | [MrPoloGit](https://github.com/MrPoloGit) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | True Invisibility | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Very Old Avalon (might be the first version) (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Wallpaperpack | Eikester | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | World+ (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
@@ -152,6 +158,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Alternate Portal Mod | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Anti-Gravity_Mover (v0.22.8) | ??? | 0.22.8 | ❌ | ❌ | ✅ | ❌ |  |
 | Avalon (v0.35.0) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Avalon (v0.35.3) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.35.3 | ❌ | ❌ | ✅ | ❌ |  |
 | Avalon v16.6 (fails) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Avalon v17.2 (fails) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Avalon v17.3 (fails) | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | ??? | ❌ | ❌ | ✅ | ❌ |  |
@@ -311,6 +318,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Sign Text | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | SillyNPCs | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | SimpleTransferExample (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Silpm Mod 1.0.1 (v0.23.3) | Silpm  | 0.23.3 | ❌ | ❌ | ✅ | ❌ |  |
 | SonnyMod | Sonny | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Spigot | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Stacks Up! (v0.34.1) | ??? | 0.34.1 | ❌ | ❌ | ✅ | ❌ |  |
