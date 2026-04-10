@@ -2,6 +2,18 @@
 
 - Some mods have different names but are the same mod, like for Shockah, need to check those
 - every single failing mod needs to be verified source code structure, extracted if obj, and rebuilt, and compared for duplicates
+- Need to reorganize and fix files structures of failing
+    - Note Blocks (fail) - Override folder?
+    - oof, retribution of the something mode, weird install, and russian?
+    - Portal Mod v1 (fails) - _picture folder?
+    - Portal Mod v2 (fails)
+    - Shockah's Quest Mod (fails), override folder
+    - Silpm Mod 1.0.1 (fails) - reorganize
+    - tConfig Debugger - release 11? messed up file structure will have to sort out, there is a 0.35.2 version to compare too
+    - The Story of Red Cloud 2018 Update - look at instructions and decide if this is broken
+    - Very old Avalon (might be first version) (fails) - fix file structure and try again, may only work for older versions of tConfig
+    - WallPaper - a fucking mess
+- Need to also compare extracted source code of older version objs to source code we have to determine if what source code was made to work on older versions, but ends up working on newer versions
 - Need to go through the middle table from tConfig fandom
 
 ## Need to be looked at:
@@ -74,7 +86,6 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Nyan Cat (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | Obsidian Sword | ??? | ??? | ✅ | ✅ | ✅ | ❌ |
 | Obsidian_Global | ??? | ??? | ✅ | ✅ | ✅ | ❌ |
-| oof (retribution of some shit) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | [Paradise Lost](https://tconfig.fandom.com/wiki/Paradise_Lost) | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Party Heads | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Poro's Dutvutanian Mod | Poro | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -104,16 +115,14 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Stacks Up! | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Supa Mushroom (obj issue) | ??? | ??? | ✅ | ✅ | ✅ | ❌ |
 | SUPER SLIME (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
-| tConfig Debugger (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | The Drone | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | The Kase mod 3.9 | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| The Story of Red Cloud 2018 Update (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | Thorium Content Pack | [DivermanSam](https://forums.terraria.org/index.php?members/divermansam.884/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | [tlcmod-1.1](https://github.com/MrPoloGit/tlcmod-1.1) | [MrPoloGit](https://github.com/MrPoloGit) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | True Invisibility | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Very Old Avalon (might be the first version) (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | W1K - Monster Hunter Pack | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Wallpaper (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
+| Wallpaperpack | Eikester | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | World+ (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | XBox Controller | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Xbox Controller Mod | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -202,6 +211,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Flashkirby's Mounts and Stuff (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Flashkirby's Weapons (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Flashlight + Fireworks (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
+| Furniture (v0.23.4) | Eikester | 0.23.4 | ❌ | ❌ | ✅ | ❌ |  |
 | Furniture Examples - Test (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
 | Furniture Examples (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
 | Gamepad Mod (v0.29.1) | ??? | 0.38 | ❌ | ❌ | ✅ | ❌ |  |
@@ -335,6 +345,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | W1K MM - Liquids Modifier (v0.27.2) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.27.2 | ❌ | ❌ | ✅ | ❌ |  |
 | W1K MM - Liquids Modifier (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | W1K MM - Position Saver (v0.38 unsure if stable) | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Wallpaperpack (v0.23.4) | Eikester | 0.23.4 | ❌ | ❌ | ✅ | ❌ |  |
 | World of Falana (v0.35.1) | ??? | 0.35.1 | ❌ | ❌ | ✅ | ❌ |  |
 | WorldGen Mod (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | WorldGen Plus (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
