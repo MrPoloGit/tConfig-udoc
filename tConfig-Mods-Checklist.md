@@ -12,7 +12,6 @@
     - tConfig Debugger - release 11? messed up file structure will have to sort out, there is a 0.35.2 version to compare too
     - The Story of Red Cloud 2018 Update - look at instructions and decide if this is broken
     - Very old Avalon (might be first version) (fails) - fix file structure and try again, may only work for older versions of tConfig
-    - WallPaper - a fucking mess
 - Need to also compare extracted source code of older version objs to source code we have to determine if what source code was made to work on older versions, but ends up working on newer versions
 - Need to go through the middle table from tConfig fandom
 
