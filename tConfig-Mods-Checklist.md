@@ -4,12 +4,8 @@
 - every single failing mod needs to be verified source code structure, extracted if obj, and rebuilt, and compared for duplicates
 - need to double check fails included in the table
 - Need to reorganize and fix files structures of failing
-    - Portal Mod v1 (fails) - _picture folder?
-    - Portal Mod v2 (fails)
     - ROTD 1.0.1 - weird, russian?
-    - Russin Avalon Mashup (fails) - went through the induvidual mods and noted them
     - tConfig Debugger - release 11? messed up file structure will have to sort out, there is a 0.35.2 version to compare too
-    - The Story of Red Cloud 2018 Update - look at instructions and decide if this is broken
     - Wallpaper (fails), sorted out the induvidual mods and will have the diagrams for crafting translated
 -  Need to also compare extracted source code of older version objs to source code we have to determine if what source code was made to work on older versions, but ends up working on newer versions
 - Need to go through the middle table from tConfig fandom
@@ -67,7 +63,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | GodMode 3 | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Gold's Pickaxe Pack | Gold | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Gravity Gun (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
-| GRleam (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
+| GRealm (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | Groxmod (requires BaseMod) (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | Health Interface | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Health Up! (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
@@ -190,6 +186,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Corruptor Mod (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Daggers (v0.27.1) | ??? | 0.27.1 | ❌ | ❌ | ✅ | ❌ |  |
 | Dark Souls (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Dark Souls (v0.36) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Dark Souls (v0.38 unsure if stable) v1 | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Dark Souls (v0.38 unsure if stable) v1 | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Dark_Souls_darksouls (1) (v0.35.3) | ??? | 0.35.3 | ❌ | ❌ | ✅ | ❌ |  |
@@ -229,9 +226,11 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Glue & Paint Gun (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | GodMode 2 (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
 | GodMode 3 (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
-| Grables_Recipe_Book (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Grables_Recipe_Book (fails) | Grable | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Grable's Recipe Book (v0.36) | Grable | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Gravity Gun (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
-| Green_Cats_Autosave_Players (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Green_Cats_Autosave_Players (fails) | Green Cat | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Green Cat's Autosave Players (v0.36) | Green Cat | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Groxmod (requires BaseMod) (v0.38 unsure if stable) | ??? | 0.38 |❌ | ❌ | ✅ | ✅ |  |
 | Hardmode Plus (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Health Up! (v0.34.0) | ??? | 0.34.0 | ❌ | ❌ | ✅ | ❌ |  |
@@ -247,6 +246,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Metroid Mod (v0.34.0) | ??? | 0.34.0 |❌ | ❌ | ✅ | ❌ |  |
 | Metroid Morph Ball | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | MiraiMais_Dual_Wielding (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| MiraiMai's Dual Wielding (v0.36) | Mirai | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Mirrors | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Monster_Hunter_Terra12345 (v0.22.8) | ??? | 0.22.8 |❌ | ❌ | ✅ | ❌ |  |
 | More Chests | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
