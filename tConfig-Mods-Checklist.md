@@ -97,6 +97,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Roguelike | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | RomulanPaladin's Dust and Sound Catalog v0_1 | RomulanPaladin | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Russian Avalon Mashup (fails) | ??? | 0.38 | ✅ | ❌ | ❌ | ❌ | went through the induvidual mods need russians to read |
+| russiaavalon | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | San's Mod | San | 0.38 | ✅ | ❌ | ❌ | ❌ |
 | Shake Off Buffs | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Shockah Achievements | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -110,6 +111,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Shop Info | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Shop Info (fails) | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | ??? | ✅ | ❌ | ❌ | ❌ |
 | Silpm Mod 1.0.1 (fails) | Silpm | ??? | ✅ | ❌ | ❌ | ❌ |
+| Silpm Mod 1.0.2 | Silpm | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | SonnyMod (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | Stacks Up! | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Supa Mushroom (obj issue) | ??? | ??? | ✅ | ✅ | ✅ | ❌ |
@@ -147,6 +149,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Accessory_Slots (fail) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Additional Weapons Mod (v0.28.8) | ??? | 0.28.0 | ❌ | ❌ | ✅ | ❌ |  |
 | Adventure Dialogue (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Alchemist | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Alternate Portal Mod (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Alternate Portal Mod | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Anti-Gravity_Mover (v0.22.8) | ??? | 0.22.8 | ❌ | ❌ | ✅ | ❌ |  |
@@ -189,7 +192,8 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | DefaultsModified (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | DefaultsTest (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Dual Wielding (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| Due West (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Due West (v0.38 unsure if stable) v1 | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
+| Due West (v0.38 unsure if stable) v2 | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Durability (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Dust and Sound Catalog (v0.22.8) | ??? | 0.22.8 | ❌ | ❌ | ✅ | ❌ |  |
 | Dying Soul (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
