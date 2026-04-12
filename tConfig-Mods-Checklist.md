@@ -64,7 +64,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Health Interface | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Health Up! (fails) | ??? | ??? | ✅ | ❌ | ❌ | ❌ |
 | HP Bars | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
-| Industrail Revloution mod | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
+| Industrail Revloution mod 1.5 | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Item Manager | [Shockah](https://forums.terraria.org/index.php?members/shockah.128/) | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Jensen's Moon Mod | Jensen | 0.38 | ✅ | ✅ | ✅ | ✅ |
 | Jewelcrafting Mod | ??? | 0.38 | ✅ | ✅ | ✅ | ✅ |
@@ -232,6 +232,7 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Infinity Chest | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Jensen's Moon Mod (v0.35.1) | ??? | 0.35.1 |❌ | ❌ | ✅ | ❌ |  |
 | Jewelcrafting Mod (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
+| Jewelcrafting Mod (v0.27.2) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
 | Kurobari (v0.38 unstable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | LBP | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Magic Mirror Hotkey (v0.35.2) | ??? | 0.35.2 |❌ | ❌ | ✅ | ❌ |  |
