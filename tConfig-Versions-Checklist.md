@@ -3,6 +3,7 @@
 Source:
 - https://tconfig.fandom.com/wiki/Changelog
 - https://tconfig.fandom.com/wiki/Changelog/v2
+- tConfig 0.36 - https://www.dropbox.com/s/hdm9f7k9teqy8lm/tConfig.zip?dl=0
 
 | Version | Release | File | Verified |
 |---------|---------|------|----------|

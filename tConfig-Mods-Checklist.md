@@ -163,7 +163,6 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Avalon | [blahblahbal](https://forums.terraria.org/index.php?members/blahblahbal.17/) | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Awesome Christmas (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
 | BaseMod (v0.35.0) | ??? | 0.35.0 | ❌ | ❌ | ✅ | ❌ |  |
-| Binding of Terraria (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Binding of Terraria | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Boss HP Bar (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Boss_HP_Bar (fails) | ??? | ??? | ❌ | ❌ | ✅ | ❌ |  |
@@ -171,7 +170,6 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 | Built-In (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Caelum Ignota  (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Capture The Flag (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
-| Challenges (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Challenges | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | CharError (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
 | Cheat Menu Modded (v0.38 unsure if stable) | ??? | 0.38 | ❌ | ❌ | ✅ | ✅ |  |
