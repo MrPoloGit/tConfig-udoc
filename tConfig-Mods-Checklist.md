@@ -1,14 +1,10 @@
 # tConfig Mods Checklist
 
-- Some mods have different names but are the same mod, like for Shockah, need to check those
 - every single failing mod needs to be verified source code structure, extracted if obj, and rebuilt, and compared for duplicates
-- need to double check fails included in the table
 - Need to reorganize and fix files structures of failing
     - ROTD 1.0.1 - weird, russian?
     - tConfig Debugger - release 11? messed up file structure will have to sort out, there is a 0.35.2 version to compare too
     - Wallpaper (fails), sorted out the induvidual mods and will have the diagrams for crafting translated
--  Need to also compare extracted source code of older version objs to source code we have to determine if what source code was made to work on older versions, but ends up working on newer versions
-- Need to go through the middle table from tConfig fandom
 
 ## Need to be looked at:
 - https://tconfig.fandom.com/wiki/Wingzero007_Mod_Tests
@@ -402,93 +398,93 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 
 | Mod Name | Author | tConfig Version | Source Files | Builds (on version) | obj File | working obj file | Link |
 |----------|--------|-----------------|--------------|---------------------|----------|------------------|------|
-| [Green Cat's Xbox Controller Mod (needs more research)](https://forums.terraria.org/index.php?threads/xinput-gamepad-support-mod-pre-1-3.1260/) | [GreenCat77](https://forums.terraria.org/index.php?members/meowmaritus.5259/) | 0.35.3a | ❌ | ❌ | ❌ | ❌ |  |
-| ChadPack - Food | Chadwick | 0.35.1a | ❌ | ❌ | ❌ | ❌ |  |
-| W1K's Content Packs Remix | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1a |  ❌ |❌ | ❌ | ❌ |  |
-| World of Falana | Wodzu93 | 0.35.1a | ❌ | ❌ | ❌ | ✅ |  |
-| Jmod | Creeper_Man (Jensen) | 0.35.1 | ❌ | ❌ | ❌ | ❌ |  |
-| Star Wars Modpack | FreyModder | 0.35.1 | ❌ | ❌ | ❌ | ❌ |  |
-| Pixel Mark Crusaders' My Little Pony Pack | Pixel Mark Crusaders | 0.35.0 | ❌ | ❌ | ❌ | ❌ |  |
-| ChadPack - Magic Mod | Chadwick | 0.34.1b | ❌ | ❌ | ❌ | ❌ |  |
-| ChadPack - Nipponjin/Japanese Mod | Chadwick | 0.34.1b | ❌ | ❌ | ❌ | ❌ |  |
-| Thorium Content Pack | DivermanSam | 0.34.0 | ❌ | ❌ | ❌ | ❌ |  |
-| Buildaria-like mod | Duze | 0.33.0 | ❌ | ❌ | ❌ | ❌ |  |
-| Super Metroid (and map) | Duze & ScooterBoot9697 | 0.33.0 | ❌ | ❌ | ❌ | ❌ |  |
-| Ace's Final Fantasy Modification | Ace the Best | 0.31.1b | ❌ | ❌ | ❌ | ❌ |  |
-| Retribution of the Darkness | Anton_ROTD | 0.31.1b | ❌ | ❌ | ❌ | ❌ |  |
-| Bright Souls Mod v0.1.00 | LALZNOOBS | 0.31.1a | ❌ | ❌ | ❌ | ❌ |  |
-| Recipe Book | grable | 0.30.4 | ❌ | ❌ | ❌ | ❌ |  |
-| Space Mod | Deceitful Echo | 0.30.4 | ❌ | ❌ | ❌ | ❌ |  |
-| Legend of Sapharan | Sapharan | 0.29.9 | ❌ | ❌ | ❌ | ❌ |  |
-| Nyra's Mod Pack | Nyra Stiel | 0.29.6 | ❌ | ❌ | ❌ | ❌ |  |
-| Daft Punk - Guy-Man's Helmet | Xargon | 0.29.3 | ❌ | ❌ | ❌ | ❌ |  |
-| Doctor Who Mod | SonicR | 0.29.2 | ❌ | ❌ | ❌ | ❌ |  |
-| Dark Souls Mod | Tim Hjersted | 0.29.1 | ❌ | ❌ | ❌ | ❌ |  |
-| RussLeeIV's Mods | RussLeeIV | 0.29.1 | ❌ | ❌ | ❌ | ❌ |  |
-| The Hellish Hardmode | Bullseye55 | 0.29.0 | ❌ | ❌ | ❌ | ❌ |  |
-| Decorations and Wallpapers Pack | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
-| Disassembly Mod | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
-| Minecraft Hud Mod | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
-| Terrariastuck | W1K | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
-| xR Zer0's Workshop | Wingzero007 | 0.28.7 | ❌ | ❌ | ❌ | ❌ |  |
-| Droid15243's Modpacks | Droid15243 | 0.28.6 | ❌ | ❌ | ❌ | ❌ |  |
-| Desert Pack | Eikester | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
-| Knight's Trenchcoats and Katanas | Knight9910 | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
-| Magia Machina | Revos | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
-| Bags of Holding | Lycos Hayes | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
-| Lycos Hayes' Vanity Flair Kit | Lycos Hayes | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
-| Tunnel King's Mods | Tunnel King | 0.28.5 | ❌ | ❌ | ❌ | ❌ |  |
-| Drills and Tools | GiSS588 | 0.28.2 | ❌ | ❌ | ❌ | ❌ |  |
-| Symple Terraria | Symple | 0.28.2 | ❌ | ❌ | ❌ | ❌ |  |
-| Weapon/Accessory Modifier Pack | rangerofthewest | 0.28.2 | ❌ | ❌ | ❌ | ❌ |  |
-| Alchemy Mod | [Deadwindshadow](https://steamcommunity.com/id/jimmyl) | 0.28.2 | ❌ | ❌ | ❌ | ❌ |  |
-| SYNTAX'S MOD | SYNTAX | 0.28.1 | ❌ | ❌ | ❌ | ❌ |  |
-| The Legend of Terraria | MiraiMai | 0.28.0 | ❌ | ❌ | ❌ | ❌ |  |
-| Dynamic Difficulty Adjustment | Arkhalis | 0.27.2 | ❌ | ❌ | ❌ | ❌ |  |
-| [Jewelcrafting Mod](https://www.dropbox.com/scl/fi/brt8sfl7nm04vmdq5sm4b/Jewelcrafting-Mod.zip?rlkey=mvc71qaqswka5qcmc5v6n2g9o&e=1) | [Deadwindshadow](https://steamcommunity.com/id/jimmyl) | 0.27.2 | ✅ | ❌ | ❌ | ✅ |  |
-| Never Enough Devices! | MiraiMai | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
-| Never Enough Mods! | MiraiMai | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
-| Metroid Mod | scooterboot9697 | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
-| WW2 Weapons Pack | Shadow123 | 0.27.2 | ❌ | ❌ | ❌ | ❌ |
-| Hesperides Temple | Excitement | 0.27.1 | ❌ | ❌ | ❌ | ❌ |
-| Omnir's Modpacks | Omnir | 0.27.1 | ❌ | ❌ | ❌ | ❌ |
-| Portal Mod (Temphix) | Temphix | 0.27.0 | ❌ | ❌ | ❌ | ❌ |
-| Cobalt Mod | Blessed | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
-| Plexiglass | eliure | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
-| mbran's modpack | mbran139 | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
-| Mainslot-0 | MiraiMai | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
-| New Terraria Mod | Nawe^^ | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
-| [Rustlesser's ModPack 1.0.6](https://terraria.fandom.com/ru/wiki/Rustlesser%27s_ModPack) | [Rustlesser](https://terraria.fandom.com/ru/wiki/UserProfile:Rustlesser) | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
-| Sandbox Elemental | Solenix | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
-| Assassins Creed Modpack | X-Spider | 0.24.0 | ❌ | ❌ | ❌ | ❌ |
-| The Portal Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.23.8 | ❌ | ❌ | ❌ | ❌ |
-| tConfig Quest Mod | Wigglesniff | 0.23.8 | ❌ | ❌ | ❌ | ❌ |
-| The True and Balanced Pack | Wingzero007 | 0.23.8 | ❌ | ❌ | ❌ | ❌ |
-| Modern Warfare 3 Pack | warmaster949 | 0.23.7 | ❌ | ❌ | ❌ | ❌ |
-| Tiles example pack (Surfpup) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.23.4b | ❌ | ❌ | ❌ | ❌ |
-| Atomsk's Mods | AtomskShade | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| Chest Colours | eliure | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| Dark Souls Mod | Tim Hjersted | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| Eggs! | Classikly | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| Flag Mode | Light Sparkle | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| JMod | Joshua Searle | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| Katanas+ | Fish Bowl | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| Platinum Gear | Classikly | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| Poison Mod | Party_Poison | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| Sigia's Mod | Sigia | 0.23.3 | ❌ | ❌ | ❌ | ❌ |
-| Silpa Mod | Silpa | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
-| Terraria Avalon | blahblahbal | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
-| Zoodle's Content Packs | Zoodletec | 0.33.0??? | ❌ | ❌ | ❌ | ❌ |
-| Kjulo's DLC | Kjulo | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
-| Weird Weapon Mod | SpyStone | 0.23.1 | ❌ | ❌ | ❌ | ❌ |
-| Other Worlds | Dogsonofawolf | 0.22.3 | ❌ | ❌ | ❌ | ❌ |
-| Spells and Mysticism! | Mitchellex | 0.22.2 | ❌ | ❌ | ❌ | ❌ |
-| Jordan's Modpack | Jordanlm98 | 0.21.7 | ❌ | ❌ | ❌ | ❌ |
-| Dogsonofawolf's NPCs | Dogsonofawolf | 0.21.0 | ❌ | ❌ | ❌ | ❌ |
-| Obsidian Mod | Obsidian | 0.19.6 | ❌ | ❌ | ❌ | ✅ |
-| Sword Pack | Aerobit | 0.12.4 | ❌ | ❌ | ❌ | ❌ |
-| Misc ModPack | FatObeseBird | ??? | ❌ | ❌ | ❌ | ❌ |
-| Runescape Weapons | Robert | ??? | ❌ | ❌ | ❌ | ❌ |
+| Green Cat's Xbox Controller Mod | [GreenCat77](https://forums.terraria.org/index.php?members/meowmaritus.5259/) | 0.35.3a | ❌ | ❌ | ❌ | ❌ | ❌ |
+| ChadPack - Food | Chadwick | 0.35.1a | ❌ | ❌ | ❌ | ❌ | ❌ |
+| W1K's Content Packs Remix | [W1K](https://forums.terraria.org/index.php?members/w1k.49/) | 0.35.1a |  ❌ |❌ | ❌ | ❌ | ❌ |
+| World of Falana | Wodzu93 | 0.35.1a | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Jmod | Creeper_Man (Jensen) | 0.35.1 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Star Wars Modpack | FreyModder | 0.35.1 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Pixel Mark Crusaders' My Little Pony Pack | Pixel Mark Crusaders | 0.35.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| ChadPack - Magic Mod | Chadwick | 0.34.1b | ❌ | ❌ | ❌ | ❌ | ❌ |
+| ChadPack - Nipponjin/Japanese Mod | Chadwick | 0.34.1b | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Thorium Content Pack | DivermanSam | 0.34.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Buildaria-like mod | Duze | 0.33.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Super Metroid (and map) | Duze & ScooterBoot9697 | 0.33.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Ace's Final Fantasy Modification | Ace the Best | 0.31.1b | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Retribution of the Darkness | Anton_ROTD | 0.31.1b | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Bright Souls Mod v0.1.00 | LALZNOOBS | 0.31.1a | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Recipe Book | grable | 0.30.4 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Space Mod | Deceitful Echo | 0.30.4 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Legend of Sapharan | Sapharan | 0.29.9 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Nyra's Mod Pack | Nyra Stiel | 0.29.6 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Daft Punk - Guy-Man's Helmet | Xargon | 0.29.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Doctor Who Mod | SonicR | 0.29.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Dark Souls Mod | Tim Hjersted | 0.29.1 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| RussLeeIV's Mods | RussLeeIV | 0.29.1 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| The Hellish Hardmode | Bullseye55 | 0.29.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Decorations and Wallpapers Pack | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Disassembly Mod | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Minecraft Hud Mod | Eikester | 0.28.7 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Terrariastuck | W1K | 0.28.7 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| xR Zer0's Workshop | Wingzero007 | 0.28.7 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Droid15243's Modpacks | Droid15243 | 0.28.6 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Desert Pack | Eikester | 0.28.5 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Knight's Trenchcoats and Katanas | Knight9910 | 0.28.5 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Magia Machina | Revos | 0.28.5 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Bags of Holding | Lycos Hayes | 0.28.5 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Lycos Hayes' Vanity Flair Kit | Lycos Hayes | 0.28.5 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Tunnel King's Mods | Tunnel King | 0.28.5 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Drills and Tools | GiSS588 | 0.28.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Symple Terraria | Symple | 0.28.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Weapon/Accessory Modifier Pack | rangerofthewest | 0.28.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Alchemy Mod | [Deadwindshadow](https://steamcommunity.com/id/jimmyl) | 0.28.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| SYNTAX'S MOD | SYNTAX | 0.28.1 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| The Legend of Terraria | MiraiMai | 0.28.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Dynamic Difficulty Adjustment | Arkhalis | 0.27.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Jewelcrafting Mod](https://www.dropbox.com/scl/fi/brt8sfl7nm04vmdq5sm4b/Jewelcrafting-Mod.zip?rlkey=mvc71qaqswka5qcmc5v6n2g9o&e=1) | [Deadwindshadow](https://steamcommunity.com/id/jimmyl) | 0.27.2 | ✅ | ❌ | ✅ | ❌ | ✅ |
+| Never Enough Devices! | MiraiMai | 0.27.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Never Enough Mods! | MiraiMai | 0.27.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Metroid Mod | scooterboot9697 | 0.27.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| WW2 Weapons Pack | Shadow123 | 0.27.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Hesperides Temple | Excitement | 0.27.1 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Omnir's Modpacks | Omnir | 0.27.1 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Portal Mod (Temphix) | Temphix | 0.27.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Cobalt Mod | Blessed | 0.24.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Plexiglass | eliure | 0.24.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| mbran's modpack | mbran139 | 0.24.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Mainslot-0 | MiraiMai | 0.24.0 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| New Terraria Mod | Nawe^^ | 0.24.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Rustlesser's ModPack 1.0.6](https://terraria.fandom.com/ru/wiki/Rustlesser%27s_ModPack) | [Rustlesser](https://terraria.fandom.com/ru/wiki/UserProfile:Rustlesser) | 0.24.0 | ❌ | ❌ | ❌ | ❌ | NEED TO LOOK THROUGH RUSSIAN STUFF |
+| Sandbox Elemental | Solenix | 0.24.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Assassins Creed Modpack | X-Spider | 0.24.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| The Portal Mod | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.23.8 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| tConfig Quest Mod | Wigglesniff | 0.23.8 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| The True and Balanced Pack | Wingzero007 | 0.23.8 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Modern Warfare 3 Pack | warmaster949 | 0.23.7 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Tiles example pack (Surfpup) | [Surfpup](https://forums.terraria.org/index.php?members/surfpup.21475/) | 0.23.4b | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Atomsk's Mods | AtomskShade | 0.23.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Chest Colours | eliure | 0.23.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Dark Souls Mod | Tim Hjersted | 0.23.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Eggs! | Classikly | 0.23.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Flag Mode | Light Sparkle | 0.23.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| JMod | Joshua Searle | 0.23.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Katanas+ | Fish Bowl | 0.23.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Platinum Gear | Classikly | 0.23.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Poison Mod | Party_Poison | 0.23.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Sigia's Mod | Sigia | 0.23.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Silpa Mod | Silpa | 0.23.1 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Terraria Avalon | blahblahbal | 0.23.1 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Zoodle's Content Packs | Zoodletec | 0.33.0??? | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Kjulo's DLC | Kjulo | 0.23.1 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Weird Weapon Mod | SpyStone | 0.23.1 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Other Worlds | Dogsonofawolf | 0.22.3 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Spells and Mysticism! | Mitchellex | 0.22.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Jordan's Modpack | Jordanlm98 | 0.21.7 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Dogsonofawolf's NPCs | Dogsonofawolf | 0.21.0 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Obsidian Mod | Obsidian | 0.19.6 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Sword Pack | Aerobit | 0.12.4 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Misc ModPack | FatObeseBird | ??? | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Runescape Weapons | Robert | ??? | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ### Terraria tConfig 1.0.6.1 Compatible Mods
 
@@ -539,3 +535,4 @@ Marking something as 0.38 compatabile means that it outputs an obj when using Mo
 ## Random (unconfirmed)
 - Shockah's Mod
 - W1K MM - 1.0.5 Balence
+| [Green Cat's Xbox Controller Mod (needs more research)](https://forums.terraria.org/index.php?threads/xinput-gamepad-support-mod-pre-1-3.1260/) | [GreenCat77](https://forums.terraria.org/index.php?members/meowmaritus.5259/) | 0.35.3a | ❌ | ❌ | ❌ | ❌ | ❌ |
